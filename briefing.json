@@ -1,13 +1,13 @@
 {
  "placeholder": false,
- "generated_at": "2026-11-03T06:07:17.986013+00:00",
- "headline": "US midterm voting day lands on top of a stubborn tech sell-off, a fresh US strike on Iran, and another central bank rate rise in Australia. Meanwhile private credit, AI financing and a mega-merger in optical networking keep the dealmakers busy.",
+ "generated_at": "2026-11-03T11:44:57.580903+00:00",
+ "headline": "US midterm voting begins with markets already unsettled: the Nasdaq-100 is in a correction, oil is above $100 on the Iran conflict, and central banks keep raising rates. Healthcare is dominated by a biotech bankruptcy, a wave of biosimilar and manufacturing deals, and rising premiums.",
  "watch": [
-  "US midterm results and the market reaction, including the Asian currency moves State Street flagged",
-  "Whether the Nasdaq-100's third correction this year deepens or stabilises after Monday's losses",
-  "Oil's direction after the Qeshm Island strike and talk of US-Iran negotiations",
-  "Reaction to the Marvell-Lumentum all-stock merger, which shareholders of both companies have criticised",
-  "Bank of England decision on Thursday, with a hike expected"
+  "Midterm results and the market reaction in Treasuries, the dollar and tech stocks",
+  "Treasury's quarterly refunding announcement and any change to coupon issuance",
+  "Oil near $106 and Middle East headlines after the US strike on Qeshm Island",
+  "Bank of England decision on Thursday, and the Friday deadline for ECB president nominations",
+  "Karyopharm's Chapter 11 auction and any rival bids to Ayrmid"
  ],
  "sections": [
   {
@@ -15,7 +15,7 @@
    "title": "Healthcare & biotech",
    "paragraphs": [
     {
-     "text": "Distress and restructuring led the biotech news. Karyopharm, the multiple myeloma drugmaker, has filed for Chapter 11 after recently striking a forbearance deal to delay debt payments. Fierce Biotech and BioPharma Dive both report that Ayrmid, the Irish company that previously tried to buy bluebird, will be the lead bidder in a court-supervised auction, with a hematology merger as the goal. Endpoints says few options were left. The structure, a stalking-horse bid inside a bankruptcy sale, is the standard route for a commercial-stage biotech whose debt load outran its sales. For credit investors it is another reminder of how little room small-cap biotech has once covenants bite.",
+     "text": "The clearest distress story is Karyopharm. Fierce Biotech and Endpoints report that the multiple myeloma drugmaker has filed for Chapter 11 and lined up Ayrmid, the company that previously tried to buy bluebird, as lead bidder in a court-supervised auction that could become a hematology merger. BioPharma Dive notes the company recently struck a forbearance deal to push off debt payments, so this looks like a debt-driven sale rather than a strategic one. For credit investors in small commercial-stage biotech, it is a reminder that a marketed drug does not protect a leveraged balance sheet.",
      "sources": [
       {
        "title": "Karyopharm, deep in debt, to sell itself in bankruptcy",
@@ -35,27 +35,62 @@
      ]
     },
     {
-     "text": "On the regulatory side, the FDA gave uniQure's Huntington's disease gene therapy priority review, with a decision date of May 1 and an advisory committee scheduled. Endpoints calls the program high-profile, and Fierce calls it a defining milestone. Inovio's Voceryq, described as the first plasmid DNA-based immunotherapy, won approval for a rare HPV-driven airway disease after an earlier scare over the accelerated pathway. Inovio led Nasdaq gainers on Monday. The FDA also approved a generic HIV prevention shot, a step toward wider access in lower-income countries, per STAT. Setbacks included a partial clinical hold on Bright Minds' seizure drug BMB-101 over toxicity in mouse studies, and a partial hold Gilead disclosed on two KITE-753 CAR-T trials in DLBCL. Teva stopped one trial for futility. FDA inspection reports also flagged sterilization problems at a Hansoh facility and data falsification concerns at a Samsung Biologics site, which is relevant to contract manufacturing diligence.",
+     "text": "Contract manufacturing and biosimilars are the main deal themes. Endpoints says Merck KGaA is exiting its CDMO business and selling five US sites and about 1,100 employees to Lonza, with financial terms undisclosed. Fresenius and WuXi Biologics agreed a broad biosimilars pact that, per Fierce Pharma, could take Fresenius to as many as 66 molecules aimed at originator products worth more than €370 billion. BioPharma Dive adds that Keytruda biosimilars are coming as Merck's patent cliff nears, but may struggle to win wide uptake. Separately, Fierce Pharma reports FDA inspection write-ups at Hansoh in China (sterilization issues) and Samsung Biologics in Korea (data falsification), which matter for anyone underwriting outsourced manufacturing. AbbVie also disclosed a deal with Beijing-based Brise for two preclinical migraine programs, a deal Brise said dates from 2024, and Barron's argues the way to play China's biotech rise is through US drug stocks.",
      "sources": [
       {
-       "title": "UniQure gets review date and adcomm; Inovia's stock surges after approval",
+       "title": "Merck KGaA to exit CDMO business, divesting US sites to Lonza",
        "source": "Endpoints News",
-       "url": "https://endpoints.news/uniqure-gets-review-date-and-adcomm-inovias-stock-surges-after-approval/"
+       "url": "https://endpoints.news/merck-kgaa-to-exit-cdmo-business-divesting-us-sites-to-lonza/"
       },
+      {
+       "title": "Fresenius strikes WuXi biosimilars deal for up to 37 assets, targeting €370B market",
+       "source": "Fierce Pharma",
+       "url": "https://www.fiercepharma.com/pharma/fresenius-expands-biosimilars-pipeline-37-asset-wuxi-deal-targeting-eur370b-market"
+      },
+      {
+       "title": "WuXi Biologics, Fresenius partner ahead of biosimilar boom",
+       "source": "Endpoints News",
+       "url": "https://endpoints.news/wuxi-biologics-fresenius-partner-ahead-of-biosimilar-boom/"
+      },
+      {
+       "title": "Keytruda biosimilars are coming — but they face an uphill battle",
+       "source": "BioPharma Dive",
+       "url": "https://www.biopharmadive.com/news/keytruda-biosimilars-fda-pbm-market-share-drug/873424/"
+      },
+      {
+       "title": "Hansoh, Samsung Biologics hit with FDA write-ups after inspections",
+       "source": "Fierce Pharma",
+       "url": "https://www.fiercepharma.com/pharma/hansoh-and-samsung-face-fda-write-after-inspections"
+      },
+      {
+       "title": "AbbVie, Brise disclose deal for two preclinical migraine meds",
+       "source": "Endpoints News",
+       "url": "https://endpoints.news/abbvie-brise-disclose-deal-for-two-preclinical-migraine-meds/"
+      },
+      {
+       "title": "How to Invest in the Rise of China’s Biotech: Buy U.S. Drug Stocks",
+       "source": "Barron's",
+       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xTk9GQTlmaXFDY09oWFB4QlMyalNDNGxBa0FPUVZxQk95Zmg1RFJUTFZmci1vdkg1ZUd2cHBLWnFRME9XRlU2QzliVFpUWEE5U05ndW96MXFoY25EUV9MRW5DeWZlSEhzWnp5U1h4T1dRY0lmMkNhWFN3?oc=5"
+      }
+     ]
+    },
+    {
+     "text": "Regulatory and clinical news was mixed. The FDA granted uniQure's Huntington's gene therapy priority review, with a decision date of May 1 and an advisory committee planned. It also approved Inovio's Voceryq for a rare HPV-driven airway disease, after an earlier scare over the accelerated path, and Endpoints says Inovio's stock surged. The agency approved a generic HIV prevention shot to widen access in lower-income countries. On the negative side, the FDA put a partial hold on Bright Minds' seizure drug over preclinical toxicity in mice, and the stock fell sharply. Novartis walked away from an $800 million BioArctic neuroscience collaboration after 14 months, and Teva stopped a trial for futility. InventisBio reported a phase 3 psoriasis win for its TYK2 inhibitor, and Tiziana's MS drug hit its endpoints, though the higher dose missed a neuroinflammation goal. Vertex's third-quarter coverage points to Crinetics integration shaping its outlook, but the list gives little detail.",
+     "sources": [
       {
        "title": "FDA grants uniQure’s Huntington’s gene therapy priority review, teeing up ‘defining milestone’",
        "source": "Fierce Biotech",
        "url": "https://www.fiercebiotech.com/biotech/fda-grants-uniqure-review-its-huntingtons-drug-approval-would-be-defining-milestone"
       },
       {
+       "title": "UniQure gets review date and adcomm; Inovio's stock surges after approval",
+       "source": "Endpoints News",
+       "url": "https://endpoints.news/uniqure-gets-review-date-and-adcomm-inovias-stock-surges-after-approval/"
+      },
+      {
        "title": "Inovio’s DNA-based immunotherapy Voceryq approved by FDA for rare HPV airway disease",
        "source": "Fierce Pharma",
        "url": "https://www.fiercepharma.com/pharma/inovio-dna-based-immunotherapy-voceryq-approved-fda-rare-hpv-airway-disease"
-      },
-      {
-       "title": "Biotech Stock INOVIO (NASDAQ: INO) Leads Nasdaq Gainers Monday November 2nd",
-       "source": "Investorideas.com",
-       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObXJIeUo1cnpVTldzVmVQc3F3eHNQSjlRN0hldjE2M1lvajVRemRvYWRDNTEyVnBMVHhLOWpEZ0JxX052M3RRck1rQjRqRXZIMkdGdFVkVDBxYkU1Y2tEekJ6SmhtTzZqZWhTazg3RXlOeFg4YldOcGlFcE42cTJGbDJDMzFRWHdyVF81ZXFRdDZMR1ZCMVRmRm9HMlliMFplVkhqYkxyN1RqVFRzOVdUcUNlZ3QtemhOcFZjaUs3VkFUQnBmZGppLXN3?oc=5"
       },
       {
        "title": "STAT+: FDA OKs generic HIV prevention shot, widening access for lower-income countries",
@@ -73,54 +108,14 @@
        "url": "https://www.fiercebiotech.com/biotech/fda-dims-bright-minds-outlook-partial-hold-seizure-trial"
       },
       {
-       "title": "Gilead reveals partial clinical hold on 2 CAR-T cell therapy trials",
+       "title": "BioArctic left out in the cold as Novartis walks away from $800M neuro collab",
        "source": "Fierce Biotech",
-       "url": "https://www.fiercebiotech.com/biotech/gileads-kite-reveals-partial-clinical-hold-2-car-t-cell-therapy-trials"
+       "url": "https://www.fiercebiotech.com/biotech/novartis-scraps-800m-bioartic-neuroscience-collab-after-barely-year"
       },
       {
        "title": "Teva ends trial of one of its original line-up of innovative meds over futility",
        "source": "Fierce Biotech",
        "url": "https://www.fiercebiotech.com/biotech/teva-ends-trial-one-its-original-line-innovative-meds-over-futility"
-      },
-      {
-       "title": "Hansoh, Samsung Biologics hit with FDA write-ups after inspections",
-       "source": "Fierce Pharma",
-       "url": "https://www.fiercepharma.com/pharma/hansoh-and-samsung-face-fda-write-after-inspections"
-      }
-     ]
-    },
-    {
-     "text": "Biosimilars and licensing continued to draw attention. Fresenius signed what Endpoints calls one of the largest biosimilar deals to date with WuXi Biologics, covering up to 37 assets and as many as 66 molecules aimed at originator products worth more than 370 billion euros, per Fierce Pharma. BioPharma Dive separately argues that Keytruda biosimilars face an uphill climb despite the approaching patent cliff for Merck's flagship drug. AbbVie disclosed a deal with Beijing-based Brise Pharma for two preclinical migraine programs, though Brise says the agreement actually dates from 2024. Biossil Labs, backed by OpenAI, bought Theriva's deprioritised antibiotic-degrading enzyme portfolio for up to $91 million. Setara launched with $90 million to pursue rare disease genetics. In trial data, InventisBio's TYK2 inhibitor hit its phase 3 psoriasis endpoint. Tiziana's intranasal MS drug met its phase 2a endpoints, but the higher dose missed a neuroinflammation goal. Investors are also watching a Kymera eczema readout meant to challenge Dupixent, though STAT gave no date in the blurb.",
-     "sources": [
-      {
-       "title": "Fresenius strikes WuXi biosimilars deal for up to 37 assets, targeting €370B market",
-       "source": "Fierce Pharma",
-       "url": "https://www.fiercepharma.com/pharma/fresenius-expands-biosimilars-pipeline-37-asset-wuxi-deal-targeting-eur370b-market"
-      },
-      {
-       "title": "WuXi Biologics, Fresenius partner ahead of biosimilar boom",
-       "source": "Endpoints News",
-       "url": "https://endpoints.news/wuxi-biologics-fresenius-partner-ahead-of-biosimilar-boom/"
-      },
-      {
-       "title": "Keytruda biosimilars are coming — but they face an uphill battle",
-       "source": "BioPharma Dive",
-       "url": "https://www.biopharmadive.com/news/keytruda-biosimilars-fda-pbm-market-share-drug/873424/"
-      },
-      {
-       "title": "AbbVie, Brise disclose deal for two preclinical migraine meds",
-       "source": "Endpoints News",
-       "url": "https://endpoints.news/abbvie-brise-disclose-deal-for-two-preclinical-migraine-meds/"
-      },
-      {
-       "title": "OpenAI-funded Biossil snags Theriva's unwanted antibiotic degrader portfolio for up to $91M",
-       "source": "Fierce Biotech",
-       "url": "https://www.fiercebiotech.com/biotech/openai-funded-biossil-snags-therivas-antibiotic-degrader-portfolio-91m"
-      },
-      {
-       "title": "From Actio's ashes: Setara launches with $90m to chase rare disease genetics at scale",
-       "source": "BioXconomy",
-       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTHVnZk0wZ1ppWURPNVhfY3MzTnl4MXJPRlRJRkRfZTh1UFkydjl3MEZQaTdvWlpKcmJHWlRPZlpfbjYtZFZGNEo5c0t0WU9HYk1NRERRalY3Sm9JUnk0V3lqdWZabF80Q1lEaGkxTXhvQkZnRDJ2VF91VFRlTUpLcGNPYmNZU3ZpOF9fZW56TlZrcWFjYldLTXBqeFRSR0dwUUV5MjhzdTM5Zi16VG9lUGVDYlFCZEdmdS1pUW13?oc=5"
       },
       {
        "title": "China's InventisBio delivers competitive TYK2 data in phase 3 psoriasis win",
@@ -133,14 +128,14 @@
        "url": "https://www.fiercebiotech.com/biotech/tiziana-sees-lower-dose-intranasal-ms-drug-hit-neuroinflammation-goal-while-higher-dose"
       },
       {
-       "title": "STAT+: Coming readout of Kymera eczema trial is a high-stakes moment in a bid to rival Dupixent",
-       "source": "STAT",
-       "url": "https://www.statnews.com/2026/11/02/kymera-therapeutics-trial-results-eczema-dupixent-rival/?utm_campaign=rss"
+       "title": "VRTX Q3 deep dive: Pipeline, product launches, and Crinetics integration shape outlook",
+       "source": "TradingView",
+       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR3NWVFd3OHc3R05XTFh1dWdFSDRkREVLQ2E2eVBVVGhrT0FYMTNWTUd6elJua1BYZXZfbGczWHhGd3lnY2x6dDZrZ21MSHl2SEtjcW96d002ZTg5REp5enZwV1VhT1FfUlN2M2phVzBIZkx6ZDZRaXNvemRhR09ERXpWR3ViSVk5LW5tSGtZSENUV0QtVmk1cDRxUW40M3NCbFI3SkQ0SERxbkgyeVNYWFZhX0ZIeHowYTBzVUwxNXN0MUxhVXl5VFp3cnRRLVNqSmw1SnBfclM2bFNk?oc=5"
       }
      ]
     },
     {
-     "text": "Earnings and the policy backdrop were uneven. BioPharma Dive's roundup says AstraZeneca is launching a restructuring programme to redeploy resources, Alnylam sold off on worries about a top drug, and Regeneron was rewarded for a record quarter. Community Health Systems cut its 2026 earnings forecast and slid into the red in the third quarter. It blamed more uninsured patients, previously on ACA plans, seeking care, and deferred elective surgeries. That fits KFF's finding that Medicare Part D premiums will jump about 50% on average next year, and the Times report that ACA premiums will rise an average 13% for 2027 on top of an earlier steep increase. The FTC sent warning letters to 25 insurance marketers as open enrollment began. UnitedHealthcare will drop prior authorization on more than 2,000 pediatric codes from Dec. 1. Brigham and Women's nurses set Nov. 12 for an open-ended strike. Fierce Healthcare reports advisers expect hospitals to get little policy relief whatever the midterm outcome. Elsewhere, a Washington state resident died of bird flu after exposure to infected cattle, the first such US death in a year per STAT, and the NYT says the administration plans to roll back pregnancy-related job protections.",
+     "text": "Earnings were uneven. BioPharma Dive says AstraZeneca is launching a restructuring program, Alnylam sold off on worries about a top drug, and Regeneron was rewarded for a record quarter. Bayer shares jumped after a pharma recovery led it to raise guidance, and Philips rose on stronger profitability, per the Journal. Community Health Systems lowered its 2026 earnings forecast, Healthcare Dive says, as uninsured patients who had been on ACA plans sought care and some elective surgeries were deferred. That fits the broader affordability picture: the New York Times reports ACA premiums rising an average 13% for 2027 on top of an earlier steep increase, and KFF finds Medicare Part D premiums spiking about 50% on average. The Times also reports insurers withholding payment on emergency bills despite the surprise-billing law. The FTC has sent warning letters to 25 insurance marketers as enrollment opens, and UnitedHealthcare will drop prior authorization on more than 2,000 pediatric codes from Dec. 1. Fierce Healthcare says hospitals should not expect quick policy relief after the midterms, and Brigham and Women's nurses set an open-ended strike for Nov. 12.",
      "sources": [
       {
        "title": "Earnings roundup: AstraZeneca’s cost cuts, Alnylam’s slump and Regeneron’s resilience",
@@ -148,9 +143,24 @@
        "url": "https://www.biopharmadive.com/news/astrazeneca-alnylam-regeneron-3q26-earnings-analysis/873410/"
       },
       {
+       "title": "Bayer Shares Jump After Pharma Recovery Prompts Outlook Raise",
+       "source": "WSJ Business",
+       "url": "https://www.wsj.com/business/earnings/bayer-raises-earnings-outlook-on-pharma-recovery-2a480922?mod=pls_whats_news_us_business_f"
+      },
+      {
+       "title": "Philips Shares Rise After Stronger Profitability Revives Confidence",
+       "source": "WSJ Business",
+       "url": "https://www.wsj.com/business/earnings/philips-sales-rise-amid-product-recall-agreement-5a22fdad?mod=pls_whats_news_us_business_f"
+      },
+      {
        "title": "CHS lowers 2026 earnings forecast on uninsured volumes, surgery snags",
        "source": "Healthcare Dive",
        "url": "https://www.healthcaredive.com/news/chs-lowers-full-year-earnings-forecast-uninsured-volumes-surgery-snags/873444/"
+      },
+      {
+       "title": "Obamacare Policies Hit Again With Steep Premium Increases for 2027",
+       "source": "NYT Health",
+       "url": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html"
       },
       {
        "title": "Medicare Part D premiums are spiking 50% on average next year, KFF finds",
@@ -158,9 +168,9 @@
        "url": "https://www.healthcaredive.com/news/medicare-part-d-premiums-skyrocket-2027-kff/873421/"
       },
       {
-       "title": "Obamacare Policies Hit Again With Steep Premium Increases for 2027",
+       "title": "Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care",
        "source": "NYT Health",
-       "url": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html"
+       "url": "https://www.nytimes.com/2026/11/03/us/insuers-nonpayment-arbitration.html"
       },
       {
        "title": "FTC issues warning letters over deceptive marketing as ACA enrollment opens",
@@ -173,14 +183,49 @@
        "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-nix-nearly-two-thirds-pediatric-prior-auths"
       },
       {
-       "title": "Brigham and Women's nurses set Nov. 12 date for open-ended strike",
-       "source": "Fierce Healthcare",
-       "url": "https://www.fiercehealthcare.com/providers/brigham-and-womens-nurses-authorize-open-ended-strike"
-      },
-      {
        "title": "Post-midterms, hospitals still face a long road to policy relief, advisers warn",
        "source": "Fierce Healthcare",
        "url": "https://www.fiercehealthcare.com/providers/hospitals-cant-wait-friendlier-washington-solve-policy-headwinds-brg"
+      },
+      {
+       "title": "Brigham and Women's nurses set Nov. 12 date for open-ended strike",
+       "source": "Fierce Healthcare",
+       "url": "https://www.fiercehealthcare.com/providers/brigham-and-womens-nurses-authorize-open-ended-strike"
+      }
+     ]
+    },
+    {
+     "text": "Smaller items: Fierce Biotech says OpenAI-backed Biossil bought Theriva's deprioritized antibiotic-degrading enzyme portfolio for up to $91 million. Two venture funds closed early, Singapore's NSV at $53 million and NeoSci at $54.7 million, both for biotech. Athenahealth is opening patient records to Anthropic's Claude, and Zocdoc is opening its infrastructure to AI agents. Healthcare Dive reports the AMA wants liability for clinical AI shared across physicians, vendors and health systems. STAT reports a Washington state resident died of bird flu after exposure to infected cattle, the first such US death in a year, and the Times reports the administration plans to roll back pregnancy-related job protections.",
+     "sources": [
+      {
+       "title": "OpenAI-funded Biossil snags Theriva's unwanted antibiotic degrader portfolio for up to $91M",
+       "source": "Fierce Biotech",
+       "url": "https://www.fiercebiotech.com/biotech/openai-funded-biossil-snags-therivas-antibiotic-degrader-portfolio-91m"
+      },
+      {
+       "title": "Singapore's NSV raises $53M for inaugural biotech fund, targeting US, Asia",
+       "source": "TNGlobal",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEFZSkJOWmh4aDhxdjVLM1VCTC1MUHhyNGFjTkpxeWI2eEZDOW8xQVhGUE5GM1ppSURMTE5TNFB6Yk9BYzE1VjUtWEtBZDl4ZDhFT2NGWFcyNmdhZGVGSDVmZ1FySkQwR1dZUGpKSnE1bllPS0dhMFNCMS1aTGt5Snl0ZWt1cjlnemNWRGl5ZnBFOTJFc1hOc0dhdVYyRGlYV0RtWi1MSmI3Zw?oc=5"
+      },
+      {
+       "title": "NeoSci raises $54.7M first close for its debut biotech venture fund",
+       "source": "Dealroom",
+       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbzhiTElxY1lST0NIeXBBSGZuWFR2NUFmeGhCUW8yN19MX3JPNWtzT1o4OWJaZjc0UWxSSEFUeWxLNngtd2FEQTNUcmVyeWp6XzNtQ25XTjlFS2ZNQ1RhQzQzd3lwWTh5ZWVkV0g2U0tXS1NuV2xfYjRvZ0xMcEtmZ1NXLVlrX01Dc2ZWYVFhM29qajZialFhQUhmb0VtYnVKWEE?oc=5"
+      },
+      {
+       "title": "Athenahealth launches tool to bring patient health records into Anthropic's Claude",
+       "source": "Fierce Healthcare",
+       "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/athenahealth-launches-tool-bring-patient-health-records-anthropics-claude"
+      },
+      {
+       "title": "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct",
+       "source": "Fierce Healthcare",
+       "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/zocdoc-opens-infrastructure-ai-agents-launches-partnership-instinct"
+      },
+      {
+       "title": "AI vendors, health systems join physicians in liability for clinical AI",
+       "source": "Healthcare Dive",
+       "url": "https://www.healthcaredive.com/news/ai-vendors-health-systems-join-physicians-in-liability-for-clinical-ai/873492/"
       },
       {
        "title": "Washington state resident dies from bird flu following exposure to infected cattle",
@@ -195,15 +240,15 @@
      ]
     }
    ],
-   "words": 619,
-   "minutes": 2.8
+   "words": 683,
+   "minutes": 3.0
   },
   {
    "id": "markets",
    "title": "Markets & macro",
    "paragraphs": [
     {
-     "text": "US equities start Tuesday on the back foot. The S&P 500 and Nasdaq opened November with losses as tech was sold on Monday, CNBC says, and MarketWatch reports the Nasdaq-100 has fallen into its third correction this year as AI worries mount. The Times says investors are bracing for more volatility, and the FT warns that the risk of higher volatility is rising after the recent resilience of equities. A leveraged Nasdaq-100 ETF burned traders who bought the dip last month, per MarketWatch. Beneath the index, the picture is different. CNBC says the average stock is having its best relative performance in decades, and the S&P 500's two straight losing months came from only a handful of names. MarketWatch adds that the most-hated stocks are beating the favourites, and that the index's forward P/E is now below its five- and ten-year averages after five months of going nowhere.",
+     "text": "The backdrop is a shaky AI trade going into Election Day. CNBC says the S&P 500 and Nasdaq opened November with losses as tech was sold on Monday, and MarketWatch says the Nasdaq-100 has fallen into its third correction this year, asking whether a bear market is next. CNBC also notes the S&P 500 posted a second straight losing month, but only because of a handful of stocks, and the average stock is having its best relative performance in decades. The Journal reports European chip shares falling after an Asian selloff in AI-exposed names, and the FT reports Nvidia telling cloud clients that most of their customers must be non-Chinese. The FT also warns that equity volatility risk is rising after a period of remarkable resilience. MarketWatch says a leveraged Nasdaq-100 ETF burned dip-buyers last month, and the Journal says AI investors are seeking downside protection.",
      "sources": [
       {
        "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
@@ -216,9 +261,19 @@
        "url": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories"
       },
       {
-       "title": "After Tech Sell-Off, Investors Brace for More Market Volatility",
-       "source": "NYT Business",
-       "url": "https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html"
+       "title": "The average stock is having its best relative performance in decades as the AI trade falters",
+       "source": "CNBC Investing",
+       "url": "https://www.cnbc.com/2026/11/02/the-average-stock-is-having-its-best-relative-performance-in-decades-as-the-ai-trade-falters.html"
+      },
+      {
+       "title": "European Chip Stocks Fall After Asia Selloff",
+       "source": "WSJ Markets",
+       "url": "https://www.wsj.com/finance/stocks/australian-banks-outperforming-on-rotation-away-from-ai-04a0c978?mod=rss_markets_main"
+      },
+      {
+       "title": "Nvidia orders data centre clients to reduce China exposure",
+       "source": "Financial Times",
+       "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2?syn-25a6b1a6=1"
       },
       {
        "title": "The risk of higher volatility in stocks is rising",
@@ -231,29 +286,19 @@
        "url": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories"
       },
       {
-       "title": "The average stock is having its best relative performance in decades as the AI trade falters",
-       "source": "CNBC Investing",
-       "url": "https://www.cnbc.com/2026/11/02/the-average-stock-is-having-its-best-relative-performance-in-decades-as-the-ai-trade-falters.html"
-      },
-      {
-       "title": "Wall Street’s most hated stocks are faring far better than its favorites",
-       "source": "MarketWatch",
-       "url": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories"
-      },
-      {
-       "title": "The stock market has gone nowhere for the past 5 months. It’s now looking like a bargain.",
-       "source": "MarketWatch",
-       "url": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories"
+       "title": "AI Investors Seek Downside Protection",
+       "source": "WSJ Markets",
+       "url": "https://www.wsj.com/finance/investing/ai-investors-seek-downside-protection-d1a8d5da?mod=rss_markets_main"
       }
      ]
     },
     {
-     "text": "Company results fed the AI debate. Apple's shares fell even though iPhone demand is strong. The FT says it warned that unprecedented memory chip costs will hit margins, and the holiday sales forecast is robust but the services outlook disappointed. The Journal says new CEO John Ternus cautioned that margins may weaken in coming quarters. Palantir beat expectations and, in a notable shift, US commercial revenue overtook government revenue, per the Journal and MarketWatch. The stock still fell because US commercial contract growth decelerated, MarketWatch reports. The FT also says Nvidia has told cloud clients that most of their customers must be non-Chinese. Elliott, the $80 billion hedge fund, posted flat third-quarter returns and under 2% this year through September, and warned of what it called the fear of getting obliterated.",
+     "text": "Earnings added to the mood. MarketWatch says Apple fell 4.5% premarket on disappointment over its gross margin outlook and slowing services growth, with a worsening memory crunch cited even though iPhone demand is strong. The Journal calls Apple an AI safe haven that isn't cheap. Palantir's profit soared and, per the Journal, US commercial revenue passed government revenue, but MarketWatch says the stock fell because US commercial contract growth decelerated. DuPont swung to a $123 million third-quarter profit and lifted its outlook. Lufthansa turned cautious as fuel costs weigh despite strong demand.",
      "sources": [
       {
-       "title": "Apple warns ‘unprecedented’ memory chip costs will hit margins",
-       "source": "Financial Times",
-       "url": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1"
+       "title": "What analysts are saying as Apple’s stock falls after earnings report",
+       "source": "MarketWatch",
+       "url": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories"
       },
       {
        "title": "Apple’s iPhone business is booming. Here’s why the stock is falling anyway.",
@@ -261,9 +306,9 @@
        "url": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories"
       },
       {
-       "title": "Apple’s Growth Machine Is Slowing. High Prices Might Not Save It.",
+       "title": "Apple Is an AI Safe Haven—but Safety Isn’t Cheap",
        "source": "WSJ Markets",
-       "url": "https://www.wsj.com/tech/apple-beats-wall-street-expectations-with-boost-from-higher-prices-36749418?mod=rss_markets_main"
+       "url": "https://www.wsj.com/finance/stocks/apple-is-an-ai-safe-havenbut-safety-isnt-cheap-68fa76f6?mod=rss_markets_main"
       },
       {
        "title": "Palantir Profit Soars as U.S. Commercial Revenue Overtakes Government Business",
@@ -271,104 +316,79 @@
        "url": "https://www.wsj.com/business/earnings/palantir-lifts-outlook-as-u-s-commercial-business-overtakes-government-business-16eb693f?mod=pls_whats_news_us_business_f"
       },
       {
-       "title": "Palantir earnings reveal a major AI turning point",
-       "source": "MarketWatch",
-       "url": "https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories"
-      },
-      {
        "title": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
        "source": "MarketWatch",
        "url": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories"
       },
       {
-       "title": "Nvidia orders data centre clients to reduce China exposure",
+       "title": "DuPont Swings to a Profit and Lifts Outlook",
+       "source": "WSJ Business",
+       "url": "https://www.wsj.com/business/earnings/dupont-swings-to-a-profit-and-lifts-outlook-e941091d?mod=pls_whats_news_us_business_f"
+      },
+      {
+       "title": "Lufthansa Turns Cautious on Outlook as Fuel Costs Weigh",
+       "source": "WSJ Business",
+       "url": "https://www.wsj.com/business/earnings/lufthansa-posts-higher-profit-despite-increase-in-fuel-costs-f6700a8c?mod=pls_whats_news_us_business_f"
+      }
+     ]
+    },
+    {
+     "text": "Energy and geopolitics are driving rates. The FT reports oil steady around $106 after sharp declines, with traders watching the Middle East after the US struck Iran's Qeshm Island on election eve, which Washington called defensive. The Journal says oil rebounded, lifting the dollar and Treasury and European yields, and pushing gold lower on rate-hike worries. European gas rebounded after an 8% drop. MarketWatch quotes oil strategist Jeff Currie saying it is time to take profits after this year's run while the structural supercycle remains intact. Saudi Aramco's third-quarter profit rose 9% despite attacks on pipelines and refineries, though the Times says Gulf economies have seen growth plunge in a year of war.",
+     "sources": [
+      {
+       "title": "Oil prices steady at $106 after sharp declines",
        "source": "Financial Times",
-       "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2?syn-25a6b1a6=1"
+       "url": "https://www.ft.com/content/d0ab9542-8542-4357-a534-ddbdd1a9678d?syn-25a6b1a6=1"
       },
-      {
-       "title": "Hedge Fund Elliott Warns of FOGO: Fear of Getting Obliterated in the Market",
-       "source": "WSJ Markets",
-       "url": "https://www.wsj.com/finance/investing/hedge-fund-elliott-warns-of-fogo-fear-of-getting-obliterated-in-the-market-a2cc7027?mod=rss_markets_main"
-      }
-     ]
-    },
-    {
-     "text": "Midterm voting is the day's main event. The FT frames it as a referendum on the president, and its poll finds a big majority of voters disapprove of his handling of inflation. FT data show average petrol prices in his second term have passed Biden-era levels. CNBC notes midterms have historically preceded a strong year for the S&P 500. The FT says a Democratic sweep would bring big changes on energy and trade. The Journal says Wall Street is also watching races in states where there may be pushback on AI infrastructure. State Street expects different responses across Asian currencies, while the WSJ Dollar Index slipped to 97.00, its fourth straight decline.",
-     "sources": [
-      {
-       "title": "Judgement day for Trump’s Republican Party",
-       "source": "FT Markets",
-       "url": "https://www.ft.com/content/7906251c-c903-4e4d-88db-cfe104271b0a?syn-25a6b1a6=1"
-      },
-      {
-       "title": "Big majority of US voters disapprove of Trump’s handling of inflation: FT poll",
-       "source": "FT Global Economy",
-       "url": "https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85?syn-25a6b1a6=1"
-      },
-      {
-       "title": "Petrol prices set to hit record high under Trump on eve of US elections",
-       "source": "FT Markets",
-       "url": "https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa?syn-25a6b1a6=1"
-      },
-      {
-       "title": "Stock market after midterm elections: What S&P 500 history shows",
-       "source": "CNBC Finance",
-       "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html"
-      },
-      {
-       "title": "The midterms and the world",
-       "source": "FT Global Economy",
-       "url": "https://www.ft.com/content/15d1bd16-058e-4123-9fba-88307df73aef?syn-25a6b1a6=1"
-      },
-      {
-       "title": "America’s Multi-Trillion-Dollar AI Buildout Is on the Ballot—and Wall Street Is Watching",
-       "source": "WSJ Markets",
-       "url": "https://www.wsj.com/finance/stocks/the-risks-state-and-local-elections-pose-for-wall-street-and-the-ai-trade-3bc5219d?mod=rss_markets_main"
-      },
-      {
-       "title": "U.S. Midterms Likely to Result in Different Responses Among Asian Currencies",
-       "source": "WSJ Markets",
-       "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-midterm-elections-2352f046?mod=rss_markets_main"
-      },
-      {
-       "title": "WSJ Dollar Index Falls 0.08% to 97.00",
-       "source": "WSJ Markets",
-       "url": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-as-investors-await-u-s-economic-data-c0156350?mod=rss_markets_main"
-      }
-     ]
-    },
-    {
-     "text": "The geopolitical picture is mixed for oil. The US struck Iran's Qeshm Island on the eve of the vote, which Washington called a defensive step against possible Iranian surface-to-air missile use, and the FT says oil was steady. Earlier, oil fell on hopes of US-Iran talks, and Bloomberg says Middle East flows now point to supply outrunning demand for the first time since July. Saudi Aramco's third-quarter profit rose 9% as the Iran war lifted prices, with its selling price about 35% higher than a year earlier.",
-     "sources": [
       {
        "title": "US strikes Iran’s Qeshm Island on eve of election",
        "source": "Financial Times",
        "url": "https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1"
       },
       {
-       "title": "Oil tumbles on hopes for US-Iran talks",
-       "source": "FT Markets",
-       "url": "https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3?syn-25a6b1a6=1"
-      },
-      {
-       "title": "Oil Falls as Market Tracks Mideast Developments",
+       "title": "Dollar Turns Higher Along With Oil Prices",
        "source": "WSJ Markets",
-       "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-market-tracks-mideast-developments-b95ca17a?mod=rss_markets_main"
+       "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-midterm-elections-2352f046?mod=rss_markets_main"
       },
       {
-       "title": "Middle East Oil Markets Flash Signs of Abundance as Flows Rise",
-       "source": "Bloomberg Markets",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-03/middle-east-oil-markets-flash-signs-of-abundance-as-flows-rise"
+       "title": "Treasury, European Government Bond Yields Rise as Markets Await U.S. Midterm Election Results",
+       "source": "WSJ Markets",
+       "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-as-markets-await-midterm-election-results-ddbae162?mod=rss_markets_main"
       },
       {
-       "title": "Saudi Aramco Profit Rises 9%",
-       "source": "Bloomberg Markets",
-       "url": "https://www.bloomberg.com/news/videos/2026-11-03/saudi-aramco-profit-rises-9-video"
+       "title": "Gold Futures Slide as Higher Oil Prices Fuel Rate-Hike Concerns",
+       "source": "WSJ Markets",
+       "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-better-investor-sentiment-5fe76e34?mod=rss_markets_main"
+      },
+      {
+       "title": "European TTF Gas Rebounds After Monday’s Drop",
+       "source": "WSJ Business",
+       "url": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-rebounds-after-mondays-drop-3ac50c0d?mod=pls_whats_news_us_business_f"
+      },
+      {
+       "title": "Oil has had a massive run, but a prominent bull sees a turning point on midterm eve",
+       "source": "MarketWatch",
+       "url": "https://www.marketwatch.com/story/oil-has-had-a-massive-run-but-a-prominent-bull-sees-a-turning-point-on-midterm-eve-be2c5fa7?mod=mw_rss_topstories"
+      },
+      {
+       "title": "Saudi Aramco Profit Jumps Despite Damaging Attacks on Pipelines and Refineries",
+       "source": "NYT Business",
+       "url": "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html"
+      },
+      {
+       "title": "Saudi Aramco Profit Surges, Offering Some Relief to Kingdom’s Finances",
+       "source": "WSJ Business",
+       "url": "https://www.wsj.com/business/energy-oil/saudi-aramco-profit-surges-offering-some-relief-to-kindgoms-finances-da309d56?mod=pls_whats_news_us_business_f"
+      },
+      {
+       "title": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal",
+       "source": "NYT Business",
+       "url": "https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html"
       }
      ]
     },
     {
-     "text": "Central banks keep tightening. The RBA raised its cash rate 25 basis points to 4.85%, the highest since 2008 and its fifth increase this year, after materially lifting its inflation forecasts. The Journal says the Bank of England is expected to hike Thursday, after the Fed, ECB and BoJ each raised at least once since the US-Iran war began. South Korea's inflation eased to 2.8% but stays above target, which supports further tightening. The PBOC raised the FX reserve requirement to 6% to steady the yuan, and BNP says China's forward earnings outlook keeps softening. US manufacturing PMI rose to 55.5, while Canada's slipped to 49.6. India's finance minister said she will consider equity gains tax changes amid a prolonged market slump.",
+     "text": "Central banks keep tightening. The Reserve Bank of Australia raised its cash rate 25 basis points to 4.85%, the highest since 2008, after materially revising up its inflation forecasts, and the Journal had flagged a deepening housing slump. The Journal says the Bank of England is expected to hike Thursday, joining the Fed, ECB and BoJ, each of which has raised at least once since the US-Iran war began. Swiss inflation rose to 1.5% in October from 1.0%. The FT says Brussels wants eurozone nominees to succeed Christine Lagarde by Friday. US factory activity expanded, with the ISM index at 55.5 versus 54.5 in September. JPMorgan Asset Management's Bob Michele urged the Treasury to drop the 20-year ahead of the refunding.",
      "sources": [
       {
        "title": "Australia Central Bank Raises Interest Rates to Highest Level in 18 Years",
@@ -381,24 +401,24 @@
        "url": "https://www.ft.com/content/60283bdf-e45d-4723-a68e-5a857a5b949e?syn-25a6b1a6=1"
       },
       {
+       "title": "Australia’s Housing Slump Deepens as RBA Prepares Another Rate Rise",
+       "source": "WSJ Economy",
+       "url": "https://www.wsj.com/economy/central-banking/australias-housing-slump-deepens-as-rba-prepares-another-rate-rise-52ae9c0e?mod=rss_socialeconomyfeed"
+      },
+      {
        "title": "BOE Expected to Join Peers in Raising Key Rate",
        "source": "WSJ Economy",
        "url": "https://www.wsj.com/economy/central-banking/boe-expected-to-join-peers-in-raising-key-rate-62a61c5b?mod=rss_socialeconomyfeed"
       },
       {
-       "title": "South Korea Inflation Remains Above Target at 2.8% in October",
+       "title": "Swiss Inflation Jumps to Highest Since 2023 as Energy Costs Climb",
        "source": "WSJ Economy",
-       "url": "https://www.wsj.com/economy/south-korea-inflation-eases-to-2-8-in-october-still-above-target-3d4069db?mod=rss_socialeconomyfeed"
+       "url": "https://www.wsj.com/economy/global/swiss-inflation-jumps-to-highest-since-2023-on-imported-energy-costs-5da88199?mod=rss_socialeconomyfeed"
       },
       {
-       "title": "China’s Central Bank Tweaks Forex Reserve Rules to Steady Yuan",
-       "source": "WSJ Economy",
-       "url": "https://www.wsj.com/economy/central-banking/chinas-central-bank-tweaks-forex-reserve-rules-to-steady-yuan-ad7ca0a2?mod=rss_socialeconomyfeed"
-      },
-      {
-       "title": "China’s Forward Earnings Outlook Continues to Soften",
-       "source": "WSJ Markets",
-       "url": "https://www.wsj.com/finance/stocks/australian-banks-outperforming-on-rotation-away-from-ai-04a0c978?mod=rss_markets_main"
+       "title": "Brussels sets tight deadline for ECB president nominations",
+       "source": "FT Global Economy",
+       "url": "https://www.ft.com/content/c5c430f5-e9b7-434b-851a-565cc43ccb94?syn-25a6b1a6=1"
       },
       {
        "title": "U.S. Factory Activity Expands in October",
@@ -406,52 +426,62 @@
        "url": "https://www.wsj.com/economy/central-banking/u-s-factory-activity-expands-in-october-72c3b8bb?mod=rss_socialeconomyfeed"
       },
       {
-       "title": "Canada Manufacturing Sector PMI Slips Into Contraction Territory",
-       "source": "WSJ Economy",
-       "url": "https://www.wsj.com/economy/canada-manufacturing-sector-pmi-slips-into-contraction-territory-525c459c?mod=rss_socialeconomyfeed"
+       "title": "JPM’s Michele Tells US Treasury ‘Get Rid of the 20-Year’",
+       "source": "Bloomberg Markets",
+       "url": "https://www.bloomberg.com/news/videos/2026-11-03/jpm-s-michele-tells-us-treasury-get-rid-of-the-20-year-video"
+      }
+     ]
+    },
+    {
+     "text": "In China, Bloomberg says a stimulus effort to lift stocks and cool the yuan fell flat. The PBOC raised the FX reserve requirement ratio by 2 points to 6%, and the FT says regulators halted listings after the CSI 300 had its worst month in more than a decade. On the election, the FT reports voting has begun and an FT poll shows a big majority disapprove of Trump's handling of inflation. CNBC notes midterms have historically preceded a strong S&P 500 year, and the Journal flags health insurance as a sleeper inflation issue.",
+     "sources": [
+      {
+       "title": "China Steps in to Boost Stocks, Cool Off Yuan",
+       "source": "Bloomberg Markets",
+       "url": "https://www.bloomberg.com/news/newsletters/2026-11-03/china-steps-in-to-boost-stocks-cool-off-yuan"
       },
       {
-       "title": "India to Consider Equity Gains Tax Concerns, Sitharaman Says",
-       "source": "Bloomberg Markets",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-03/india-to-consider-equity-gains-tax-concerns-sitharaman-says"
+       "title": "China’s Central Bank Tweaks Forex Reserve Rules to Steady Yuan",
+       "source": "WSJ Economy",
+       "url": "https://www.wsj.com/economy/central-banking/chinas-central-bank-tweaks-forex-reserve-rules-to-steady-yuan-ad7ca0a2?mod=rss_socialeconomyfeed"
+      },
+      {
+       "title": "China halts listings in bid to bolster struggling markets",
+       "source": "Financial Times",
+       "url": "https://www.ft.com/content/fec5981d-0c31-4f21-9a37-a1dd1526f530?syn-25a6b1a6=1"
+      },
+      {
+       "title": "Americans begin voting in crucial midterm elections",
+       "source": "Financial Times",
+       "url": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1"
+      },
+      {
+       "title": "Big majority of US voters disapprove of Trump’s handling of inflation: FT poll",
+       "source": "FT Global Economy",
+       "url": "https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85?syn-25a6b1a6=1"
+      },
+      {
+       "title": "Stock market after midterm elections: What S&P 500 history shows",
+       "source": "CNBC Finance",
+       "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html"
+      },
+      {
+       "title": "Health Insurance Is the Sleeper Inflation Issue",
+       "source": "WSJ Markets",
+       "url": "https://www.wsj.com/finance/investing/health-insurance-is-the-sleeper-inflation-issue-fea899df?mod=rss_markets_main"
       }
      ]
     }
    ],
-   "words": 600,
-   "minutes": 2.7
+   "words": 566,
+   "minutes": 2.5
   },
   {
    "id": "credit",
    "title": "Credit",
    "paragraphs": [
     {
-     "text": "Leveraged finance is showing strain. PitchBook's October wrap says loan prices fell as the sell-off broadened beyond software, and Pensions & Investments reports rising US leveraged loan distress that could foreshadow higher defaults. The blurbs give no figures, so the size of the move is unclear. Still, the direction matches the Alstom story in Europe: the FT says the French train maker's shares fell 26% after a second profit warning under its new chief, and it plans to cut €2 billion of debt. Elsewhere, Kalkine says credit jitters are growing around Australian lender Qualitas.",
-     "sources": [
-      {
-       "title": "October Wrap: Leveraged loan prices fall as sell-off broadens beyond software",
-       "source": "PitchBook",
-       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR3dWSDZlNXRLYm9SUWhrZ1FLdTJPOUpCUXhVbUlmYmtsUm1jZDFTeG9MNkt1cGlGY3Q5c0xrUUdzQnhjbnJVNjEySlBOeFIyRm0teVdxWnBpa3VaVFloeW5xOVlKOGNtQ0JOcnMzMUpIVUI5d3FVVzlqVzYxRldPVUJzZUFjVlEyaEJNUjFFXzhHYnRZdTV4RVg2R3Z6S1l4cUVJQU1HaVBRd05Fb3JjdURR?oc=5"
-      },
-      {
-       "title": "U.S. leveraged loan distress rise, foreshadowing potentially higher defaults",
-       "source": "Pensions & Investments",
-       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVjYmhucnJHMV9RMG5ocS1RSzZBSDRZZjRKQ1NXRmk5cDJQU3Q0R1RncFBxNmRTTnFERHh5UURsYTN4MGJmYXhHX0Z3TzlfeUhBTzhuREt3NXNZUGJ1Nmc2RzRHUGJZNFIzd2k0OUtVNkxEdlBBSXFYQ3hlTzNfT1ltTS1xX0UwR1hzWnFKN2ZoRkEwcXc4?oc=5"
-      },
-      {
-       "title": "Alstom shares tumble 26% after train maker cuts profit forecast",
-       "source": "FT Markets",
-       "url": "https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362?syn-25a6b1a6=1"
-      },
-      {
-       "title": "Credit Jitters Grow: Which Buffers Protect Qualitas (ASX:QAL)?",
-       "source": "Kalkine Media",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGZOdVZzZjVpMXRVN2xCakt3QXNORW5zdUNkTHMzVFZLTWszekRrX3hIdXJ0RXhpWXZVdFNmU0YtT1h6MWlrblpxcDBFalpYT1BDNDBNR2hnSmU2aDFrWEdOdTgxMGxRV2NUQkRMelluSmc0X0lRM2wtVV9aelNqZGVabHpxWTItTjFzdmM1V2daOGM4cEJhYWpHaWNzTl9PX1A0?oc=5"
-      }
-     ]
-    },
-    {
-     "text": "AI financing is the other worry. The Times's DealBook says investors are increasingly concerned about the debt-fuelled spending behind the AI build-out. FT Alphaville says data centre construction delays are getting awkward for investors, and CNBC notes CoreWeave has sold off amid debt concerns, though one contrarian sees upside. In private credit, Bloomberg says CPPIB is warning of the next big headache for investors, but the blurb gives no detail. Related-party lending is drawing scrutiny: the FT reports Todd Boehly's insurer Security Benefit has amassed more than $3 billion of loans tied to his Beverly Hills real estate project, as regulators watch insurers that lend to owner-affiliated companies.",
+     "text": "The AI borrowing story is the main credit theme. The Times says investors are increasingly worried about debt-funded AI spending. CNBC reports Blackstone president Jon Gray saying the buildout needs more equity as debt investors face concentration risk. FT Alphaville says AI is making credit default swaps relevant again, and separately questions what data-center construction delays mean for investors. MarketWatch notes a signal from the corporate bond market that has historically preceded big S&P 500 drawdowns, though the snippet doesn't say which signal. The Bond Vigilantes blog asks whether high yield is paying investors enough for the recent jump.",
      "sources": [
       {
        "title": "Cracks in the A.I. Borrowing Binge",
@@ -459,24 +489,69 @@
        "url": "https://www.nytimes.com/2026/11/02/business/dealbook/ai-borrowing-binge.html"
       },
       {
+       "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
+       "source": "CNBC Finance",
+       "url": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html"
+      },
+      {
+       "title": "AI is making CDS great again",
+       "source": "FT Markets",
+       "url": "https://www.ft.com/content/67da8e84-17b3-4371-a1f8-2fbe02997491"
+      },
+      {
        "title": "What the increasingly awkward data centre construction delays mean for investors",
        "source": "FT Alphaville",
        "url": "https://www.ft.com/content/824fcec4-bded-44f3-9e42-565ba0d2cfa8"
       },
       {
-       "title": "Investors are giving up on CoreWeave. I see a potential triple",
-       "source": "CNBC Investing",
-       "url": "https://www.cnbc.com/2026/11/02/wall-street-sees-a-debt-disaster-in-coreweave-i-see-a-stock-that-could-triple.html"
+       "title": "This signal from the corporate bond market has historically preceded big drawdowns for the S&P 500",
+       "source": "MarketWatch",
+       "url": "https://www.marketwatch.com/story/this-signal-from-the-corporate-bond-market-has-historically-preceded-big-drawdowns-for-the-s-p-500-8c1a3d25?mod=mw_rss_topstories"
       },
       {
-       "title": "CPPIB Warns of the Next Big Headache for Private Credit Investors",
-       "source": "Bloomberg.com",
-       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcmFoaEpJbEVjMFVYUGpjVHlGY0x0UXFyelVxM0ljU1NIeWo1SHBqSFdjSGdxOXpqVXQ0ODlGN0V6cHdKLVROZXJuX1BXUUZ2dEhjMkhham5zTGMxSGl4ZzZCdGdWWFRDMlcwd19wZUdUU2JIM3ZZN1NGclpRVzRnZ19HV3JTRUhEMG9UTHpwMURMR2d2RGJ2amljQU1TRkE3NmJCcnJuQ3l5ejRPX2tTenYzWDl6S1pYYWpBXzNxNjF1aUU?oc=5"
+       "title": "Mind the gap: Is high yield paid for the jump?",
+       "source": "https://bondvigilantes.com/",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX0lhbEtkc2JFM3gyNEhacndqOFdnVXprbWUtNk9CRGhpTkswVjdCcWZxbDBPdzVTZ3p2cXd6NGpMUzVmS0JDRWdaOENoUG1aRUVEVFJWZkM1MXJveE9Ga19JQ19PUWdHUkYycG1qaFd1aURDTEhmTVZzUVpwX1lBVTluOE5mQlhMc20yTEFR?oc=5"
+      }
+     ]
+    },
+    {
+     "text": "Primary-market evidence of caution: Bloomberg reports banks pulled a €550 million refinancing loan for Iqony, a European energy infrastructure and services company, for lack of investor interest amid wider market turmoil. It is described as another pulled deal in Europe's junk market, which suggests risk appetite is thinning for lower-rated borrowers.",
+     "sources": [
+      {
+       "title": "Europe’s Junk Market Sees Another Loan Pulled as Iqony Axes Deal",
+       "source": "Bloomberg Markets",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-03/europe-s-junk-market-sees-another-loan-pulled-as-iqony-axes-deal"
+      }
+     ]
+    },
+    {
+     "text": "Private credit looks steadier but more selective. InvestmentNews says demand holds firm while investors grow cautious. Fundraising continues: Neo raised ₹6,200 crore for its second private credit fund, Oklahoma Teachers made new private debt commitments, and Partners Group won a $510 million insurer mandate even as its US flagship reportedly left two-thirds of exit requests unmet, a sign of liquidity strain in evergreen vehicles. TLG Capital gave a credit facility to Nigeria's Koolboks, and the FT reports Security Benefit, Todd Boehly's insurer, has amassed billions in lending tied to his Beverly Hills project as regulators scrutinize insurers that lend to owner-affiliated companies.",
+     "sources": [
+      {
+       "title": "Private credit demand holds firm, but investors are growing cautious",
+       "source": "InvestmentNews",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlNDZVBEUXp0OFlsQzMydXk3UDlOY1JqbGVLX0Zqb2t2Qk9lblROc1ZucmRhTzVmemFveEFCeTRLb0JxcW40VmtZeHJVN1RoMnB3SldldzMzTlR1Y2huNDZBMzVOWXN4eXNhQnYzU1dhWWlNVXY1OXU0UGtyeGptYkNrTzJ2aTBiOUFWOURZS1p6MVVfeGpXcHpwYzA2WklHUXJoemtISVFSOU5BVVY1NXVpejBVUUNsMWc?oc=5"
       },
       {
-       "title": "Todd Boehly’s Hotel California",
-       "source": "FT Companies",
-       "url": "https://www.ft.com/content/6d1690d2-384a-4c89-95f9-2ca77a2555a4?syn-25a6b1a6=1"
+       "title": "Neo raises ₹6,200 cr from second private credit fund",
+       "source": "BusinessLine",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdnpWQmtOc2FWQ1BJa3pDSDF4T3g1bXFnOE15dWc4WkF2dlZKdzhYU3MyN0ZGaEtFaTFwblh0cXc1OVR1aExQMXROa2R2cTc1UWItTE8xV3FqbU1ZbDAzQmtVQzBUWlRHV2c5d1dpdmQ3Y1lhWkNPTkJTSlRhRHFOMlJlSVBid09zSU5Xb0NJdDF6Szc5Qk14aDhIMWlTYjFGZVZMRkpwNXpPTWpvc0xaMXVCRE1sQdIBvAFBVV95cUxNZ3JrOFZSUldHUmphcXBYN3cybWlSdTZpVDVFcy03OFJ4aGFWTzFqZHlJNC0wZ19BM2ZfU1RQOF9VQkc4ZEJFLV9DLU1qY1FEV3ltZUFXa0hjc2ctUV9JbjBQSjg4aW03RkJRWWUtMzJTMVJXMWVPbmE4QldVTGY5SEpnTnBtVlhvQm5YaVpmVDh4N0dKQjQ1akNWbGhaY1ByVHYyamNHNWdsLXpPNVlkQXB3R2tzUEVlVUk0ZQ?oc=5"
+      },
+      {
+       "title": "Oklahoma Teachers to finance the future with new private debt commitments",
+       "source": "Alternatives Watch",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOckJZZ3R5NldNRHowVGZzTC1WWGZSbDJZeTV2UWZiMVQzbUxJb0RhRWlwWGI1ejdhQUVoYWpKeHJZdENCVjZ0Nm1hSHBDM0pEOTVzNTFPRWFIOHNVdzNZNmxfZmZvaGRlMjkwdnFzV0Fsclh4aEdYV2ZiU3Z2clRpaThTeS1kXy01TkhVR1ZGZTFZY3dNTEZHRWhTSjlQeEpDSFd3ME5KYzlHZ0U?oc=5"
+      },
+      {
+       "title": "Partners Group Wins $510 Million Insurer Mandate as Its US Flagship Leaves Two-Thirds of Exit Reques",
+       "source": "ad-hoc-news.de",
+       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeXozOFNRd3ZCRDJDcU9mSUtrdDd0YlpvZGNLRS1CVlV4amhYQmJRT0pfUWJuNlRsYkh1Q2E2Ni1jbmJGNmUybFZ4ZEFRMkZ3dllDclhVdFhjV24wM1dFM3RKdHE4QlRWWld2UktGckNxaXB0OVVLclZzM2ZzZGJ4OEFRSFRFbXVpQWtBdDh4a0lYcnZvU3ZMeVlxR1p3RC1RZkdoVjlPRENsb3k5MDlpM08tU0FqSnVBTW1oRXd0Q2N0Q1dSdzgxZEZFeTBsbVRfcHZRWEZzcjVLOFdVSXZiVGZneE5nVXctTGc2LVNrYkJOZlBjbzgw?oc=5"
+      },
+      {
+       "title": "TLG Capital provides credit facility to Nigeria’s Koolboks",
+       "source": "Africa Private Equity News",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlpFOVY2ZTlJUHFQQ0JfMllKWE5CMGZxNjhseXloQmx3dDI1WWNhemwzdDN3b2FZUWJuX3NleE9HQjFQMTE0b0tDSmNuSnM4eEZwU3VYckVQQUNWWG9oZGQycHJndG5XeF9lcnFyNERHLVFoWVZ4WUpGTHZwQmhCZEdSeko?oc=5"
       },
       {
        "title": "Todd Boehly insurer amasses billions in lending tied to his Beverly Hills project",
@@ -486,32 +561,17 @@
      ]
     },
     {
-     "text": "Capital keeps flowing into the asset class. Man Group's private credit push has won backing from Japanese insurers, per Kalkine and Simply Wall St. Neo raised ₹6,200 crore for a second credit fund aiming for 35-40 investments, and Alternatives Watch says Abu Dhabi sovereign funds are backing new credit and infrastructure platforms. In Europe, the FT describes a dispute between banks and insurers over the Danish compromise, which makes it easier for eurozone banks to own insurers, and insurers say it gives banks an unfair edge. US bank supervision produced two small items: the FDIC's inspector general says mortgage expansion killed Tioga-Franklin, and the FDIC eased its directive on Old Glory Bank to adequately capitalized. Separately, Bangladesh's private sector credit growth stays under 5%.",
+     "text": "Distress is showing up in the real economy and small banks. Bloomberg says Brazilian farm defaults are at a record and last week's election result adds to the gloom. The Times describes small trucking firms pushed toward bankruptcy by diesel costs. The FDIC's inspector general says a mortgage expansion sank Tioga-Franklin through weak earnings, liquidity and capital problems, and the FDIC revised its directive on Old Glory Bank, now deemed adequately capitalized after a failed SPAC acquisition. Karyopharm's Chapter 11 is covered in healthcare.",
      "sources": [
       {
-       "title": "Man Group (LSE:EMG) Private Credit Push Gains Japanese Insurance Backing",
-       "source": "Kalkine Media",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGlZM0tnbXVwLTBHRkN3cnJURVR3bnNnZjRrWDdZN2pBWUFPY240MWxfWmtVSWNNU0R1bjYzLVFaTkY3aDJpV0pRRll0elpVc1llM3lMNnNmODY0RWRrb0ZVYVhkcU5KQUdZdnBWcnBtU2N3NkhCU01raDlqUW5fZzR3N1hWRmFnU1Q4MHBzWFBWY1J3NllXaHc1VHZaQndQakJkSjRTaFdRYjhjemFvUXhoS3o?oc=5"
+       "title": "Lula Victory Adds to Brazil Farm Angst as Defaults Hit Record",
+       "source": "Bloomberg Markets",
+       "url": "https://www.bloomberg.com/news/articles/2026-11-03/lula-victory-adds-to-brazil-farm-angst-as-defaults-hit-record"
       },
       {
-       "title": "Does Bigger Private Credit Backing Change The Bull Case For Man Group Stock?",
-       "source": "Simply Wall St",
-       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcG9KamI2dUw3dVljeW94VV9kYnRKSHFzY3hNVDczT1piOFItM3ljR2lpYThUVFEtSHpwZ0ladkdLQlluVG5obXdCUmlsdXdRdHVJb1NMZ1RaSnpHUzJpWUZvR3JwZ0ttNF9maE5wb1FqUkVPNnZfc1hyVXRPVktmNWdsTkpJTWhDSWhFNHQ2Z3pZb2NhYlgyRlBHYlBaM1YwbXJSaGE2WnZZMW5VVTFLWXRyUEVLaURraGhwcXRfTVZRbXpWWnlQcS0yWk9ma0ZQUFJlYmhfN1JXX0VRUVVkVktn0gHiAUFVX3lxTE1wb0pqYjZ1TDd1WWN5b3hVX2RidEpIcXNjeE1UNzNPWmI4Ui0zeWNHaWlhOFRUUS1IenBnSVp2R0tCWW5Ubmhtd0JSaWx1d1F0dUlvU0xnVFpKekdTMmlZRm9HcnBnS200X2ZoTnBvUWpSRU82dl9zWHJVdE9WS2Y1Z2xOSklNaENJaEU0dDZnellvY2FiWDJGUEdiUFozVjBtclJoYTZadlkxblVVMUtZdHJQRUtpRGtoaHBxdF9NVlFtelZaeVBxLTJaT2ZrRlBQUmViaF83UldfRVFRVWRWS2c?oc=5"
-      },
-      {
-       "title": "Neo raises ₹6,200 crore for second credit fund; targets 35-40 investments",
-       "source": "Fortune India",
-       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdXNPNmtEMnRrVVZPWnVWMVBjNDhQWGFTRDJnOE92VGdva1JUbFh6MFROV2luQ2lsUEE2clRUSDk1bVlLRG1pRUJyOTJTT0F3WHFtY1JVZk94OUloZWhrZFE1N1BKYmY3aUhPbm1HakRfdEktODFtYXFFODZWcUlDRXlxRnFpMnRWMlFhdDVyTVhpT0R1bnRUY3E1TTZGMmozQ2tCVHIwNkRuT2JGN2ZDdXl4Z29fV2xpdS15X9IBygFBVV95cUxNbkx3MW9OZ2tqLXZwek5ZS0lnT1FEYy1fQ1FBc2tmNlRvb1ZIX3NCX0RsLVpZSnZmOVZILXh1LU5JY09vUnRwYTZpa2lUeDRwVlJONDFZOEtpdkY0Y2pkcUV1UnhpUXp5OF9rMTNWMFlya3JRWXBJQUxNNU1Nay1lMDFDckZQWlRNMzZlNldqbWEtc0RRMDNWOU1NcFNFYUpycHRJRUt3dFFzbTV6bjg3bHJTZTd1U2xwdkhOWDR3eVp2QTZpV0JWV2tB?oc=5"
-      },
-      {
-       "title": "Abu Dhabi SWFs back new credit, infra platforms",
-       "source": "Alternatives Watch",
-       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUFNmUS1VWEVFc2dPdzVneFVBa0tYR2Q5MURPb1BZUm9nNW9aZGVTcWhJOVJySTZINkNzRVloOUUwcWJkWWNvdXhaeGVUQXpFSzhKdTc0RTUybV80RUZrbXFpX0RGMlp6NzRZSGtLUWFqbXJnd25zUkdaanpsVkNHSFJ6anRWbjNXLUJjMTgzRDdrakgwcjgw?oc=5"
-      },
-      {
-       "title": "The rulemaking ‘farce’ that has banks and insurers at loggerheads",
-       "source": "FT Markets",
-       "url": "https://www.ft.com/content/ab54dad5-f9d5-4e6c-b384-500410eb2082?syn-25a6b1a6=1"
+       "title": "His Business Was Tough. Diesel Prices Made It Impossible.",
+       "source": "NYT Business",
+       "url": "https://www.nytimes.com/2026/11/03/business/trucking-diesel-prices.html"
       },
       {
        "title": "Mortgage business expansion killed Tioga-Franklin: FDIC OIG",
@@ -522,24 +582,19 @@
        "title": "FDIC amends directive against Old Glory Bank",
        "source": "Banking Dive",
        "url": "https://www.bankingdive.com/news/fdic-old-glory-amended-directive-adequately-capitalized-terminated-merger/873469/"
-      },
-      {
-       "title": "Bangladesh private sector credit growth stays under 5% as weak investment curbs loan demand",
-       "source": "Traders Union",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZDBjcE5qLVZscnRzcWRiR0hpUGFqYXlBNGVPdDlINXkwR25pZk1yNW94ZC1DZ2dmUWpXX3Q0QW14eWpJM2JnQzkxMlBWVk50MUFaMjF1Q2luZGZpRTJCckdPZDNKazFFRnVnTEh5YzctbGNvTl9MUUtlcjZYVkNmMHZlVTc3MXM1dHFzd043M3Z2ZDJVazluZHJpbw?oc=5"
       }
      ]
     }
    ],
-   "words": 326,
-   "minutes": 1.4
+   "words": 336,
+   "minutes": 1.5
   },
   {
    "id": "deals",
    "title": "Investment banking & deals",
    "paragraphs": [
     {
-     "text": "The largest transaction is in technology. Marvell and Lumentum announced an all-stock combination valued at $115 billion, a bet on optical networking in AI data centres, per the Times. Shares of both companies fell Monday, and MarketWatch quotes shareholders on both sides panning the terms, one calling it a trash offer. Goldman's David Solomon told Bloomberg he sees very robust demand for AI deals and expects a technology supercycle to dominate capital markets and financing. That bullish view clashes with the day's tech sell-off.",
+     "text": "The biggest deal is the all-stock combination of Marvell and Lumentum, described by the Times as a $115 billion merger and a bet on optical networking for AI data centers. MarketWatch says shares of both companies fell Monday and shareholders panned it, one calling it a trash offer, so the market reaction is an early test for stock-funded AI consolidation. Elsewhere, Cinven agreed to buy menopause specialist Theramex for €2.6 billion from Carlyle and PAI, which are selling at more than double their price four years ago, per the FT. Shell is selling an Australian gas stake to Abu Dhabi's XRG for $1.45 billion. Bloomberg says Emaar is studying a buyout of its $15 billion listed construction arm. Alternatives Watch reports a day of closings including Stonepeak's Castrol deal and Brookfield's $5.2 billion REIT take-private, and the FT says Brookfield is backing Drax's biomass-powered data center. Business Insider says DoorDash told staff not to connect with Instacart peers on LinkedIn, which hints at a deal but the list doesn't confirm one.",
      "sources": [
       {
        "title": "Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger",
@@ -552,171 +607,700 @@
        "url": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories"
       },
       {
-       "title": "Goldman’s Solomon Sees ‘Very Robust’ Demand for AI Deals",
+       "title": "Cinven to buy menopause specialist Theramex in €2.6bn deal",
+       "source": "FT Markets",
+       "url": "https://www.ft.com/content/79867d48-6d4a-4e5e-ba62-105f7181f6b1?syn-25a6b1a6=1"
+      },
+      {
+       "title": "Shell to sell Australian gas stake to Abu Dhabi’s XRG for $1.45bn",
+       "source": "FT Markets",
+       "url": "https://www.ft.com/content/28649f64-1c4e-4163-ba2b-8d28c6e37616?syn-25a6b1a6=1"
+      },
+      {
+       "title": "Emaar Said to Study Buyout of $15 Billion Construction Arm",
        "source": "Bloomberg Markets",
-       "url": "https://www.bloomberg.com/news/videos/2026-11-03/goldman-s-solomon-sees-very-robust-demand-for-ai-deals-video"
-      }
-     ]
-    },
-    {
-     "text": "Anthropic's IPO is looming. WSJ coverage cited by TradingView says investors are urging caution on pricing, with a target valuation of $1.5 trillion to $1.6 trillion, though the headline does not make clear who set that target. Bloomberg says revenue is nearing $17 billion, and The Hindu says revenue surged 1,100%, with no period given in either list entry. In energy, the Journal reports Carl Icahn's CVR Energy is near a deal worth over $4 billion for Marathon Petroleum refineries, as global conflicts boost US refiners' sales. Alternatives Watch also reports Stonepeak's Castrol deal and Brookfield's $5.2 billion REIT take-private among a day of closings.",
-     "sources": [
-      {
-       "title": "Anthropic investors urge caution on IPO pricing, target $1.5T-$1.6T valuation - WSJ",
-       "source": "TradingView",
-       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOXzhYaWZPYXNmOXByT0hfa2pKdF90OFRGQmxjQmhUQXE5Z0NJaWdfRjlNY1ctUm01WElkNHcwRzBhR3lmVUF6OUExTW4zNk8xT2RHZWJuRlQ2akNaZ0pWdEtETnBQRkZiT25EaG5BWVl2Z2ZHYkpRRXFCdXNCaUtBSUY1LW44UjJkc2pnUXVyWGV1OVEyOC1WRmZfVFgtWEtLX0EzbzBtSi1GTnNEMmRFOHFYSVg0NEd2c0tqS0RfcnNlQUZETDBpWmJfbUZKaGExSGNPNHRxc2c?oc=5"
-      },
-      {
-       "title": "Anthropic Revenue Nears $17 Billion as IPO Looms",
-       "source": "Bloomberg.com",
-       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUEV6SkM2MWhJMFZ3bm1hRExOUzRTTXlRZExMcHQ4ZjdjU0RFTTJLanNIUWpydlY1MjIxZXpHa0RyTGVDOGtwTVJBRjM1STFTeGFReWlfVzRIb2ZYYlNIaFdGVDJHWFpiX0VOLUtESFFCYkdRb0k1QU9KZTNZbWJYWVY2SDc0LXVYTTByeUM0aGdzYmd4XzZjRFdlVWRPdU5xZ2Q1bDdIRXE1TjB4d2ZZX3htX2lITmtZcTNMUDZ5aXBnZHRTalE?oc=5"
-      },
-      {
-       "title": "Anthropic says revenue surged 1100% ahead of IPO",
-       "source": "The Hindu",
-       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU2szUFpBTGt3d0VfSmJsYXJZYUZlWU12TmNwNE9RbjMxREdKSXBQLTdRelYzZDAxS0VQWFBRQXpNai1pbEdfZ1ltbk1RN1RCS253N1ZPczBWTlFpcEl4UDhEZjM5cWxBa3JDRDE2X21KQWI5eDZrUUlmdFZtREcyaW5JNkt0d3k5MGVtVGNNUlBlaEN1ZGQ1QTVRX1M2alJZblE5Y0d4Y0VCcWxvTGMwbjlB0gG4AUFVX3lxTFA0NGI2VDRtOVA1dmVkbnhXYXdjX21kUU5YYWFMZXNFVzVPWnVEdVByR01xZ0VPaFZzR2pLeE81bll2R1k2RHFrdTE2bHlUTE1kWXRIUjdoVW5TMno2OGcxVHJpOVQ0aEhaSF9TekM2bE9JUkpCdjlJU1QzQVQ3eWZqZjdnOVB2WHdUZVFMZ1h4QUc1cDdYR05aV1hKOXVPZzBoekhrNDBMRnhfZXRTMHNYdmxKeThLUmY?oc=5"
-      },
-      {
-       "title": "Icahn’s CVR to Buy Marathon Refineries For $4 Billion, WSJ Says",
-       "source": "Bloomberg Markets",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-03/icahn-s-cvr-to-buy-marathon-refineries-for-4-billion-wsj-says"
-      },
-      {
-       "title": "Carl Icahn’s CVR Energy Near Over $4 Billion Deal for Marathon Refineries",
-       "source": "WSJ Markets",
-       "url": "https://www.wsj.com/business/deals/carl-icahns-cvr-energy-near-over-4-billion-deal-for-marathon-refineries-e8487579?mod=rss_markets_main"
+       "url": "https://www.bloomberg.com/news/articles/2026-11-03/emaar-is-said-to-study-buyout-of-14-billion-construction-arm"
       },
       {
        "title": "Stonepeak’s Castrol deal, Brookfield’s $5.2bn REIT take-private lead a day of closings",
        "source": "Alternatives Watch",
        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWVVSTZ5ZnV6bVVSS2xJcUJELWdIbFpnS0k5d3lHVndaVFdpQ3VxOTZiR0RUV1BpamxfbHZNX2NSbDVFSnY0OGpwTm1yOWczeWRFbk9xUEJiRlhlbTBtZm05VDVtN0toTlI1OWxRa0hKM0xROTZTT3RvRmZ0bGJBVjhXRXhSandBMmVGNWlNRDNiVXpsUGd6OS1tYXV6U1BwaVNZ?oc=5"
+      },
+      {
+       "title": "Drax lands Brookfield backing for biomass-powered data centre",
+       "source": "FT Companies",
+       "url": "https://www.ft.com/content/0ba9fcaf-38f7-4921-8a1e-98ede639651e?syn-25a6b1a6=1"
+      },
+      {
+       "title": "DoorDash tells employees not to connect with Instacart peers on LinkedIn. It's an uncommon M&A ask",
+       "source": "Business Insider",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcXYxR1pwQTJyT3MyNlh6bDlCU3U4RDJ0SkZfeWRLYXp0cUxDeHU3YUwxanpHakNLMkV5c2xzTlFkc3lveFZXNHFJTmJ5Z3RzQVdjdWt3V2ZTT2k2aFlsM2h5NU5zYXZTbVhGa0dhQlV0dkkwS2tEN0dsWmtuT05UMWRaVVFhUGtVMGc0dV9DZlVWZnJ6dFRBNzgtWXBTZWNBZGxaQw?oc=5"
       }
      ]
     },
     {
-     "text": "Offerings are active outside the US. Foreign investors took most of the Banque du Caire IPO allocation, per Zawya. Bloomberg says Coal India plans a roughly $1 billion IPO of its Mahanadi Coalfields unit as soon as this month. In India, BLS Polymers listed at a 65% premium on the NSE. Orion180 opened a new Florida headquarters after its IPO. Barito Renewables denied inflating its share volume and price to gain entry into MSCI indexes, and Shoprite's CEO pay plan faces proxy adviser resistance in an early test of South African binding votes.",
+     "text": "Anthropic's IPO is a recurring subject. Proactive and Fortune both report analysts doubting a roughly $2 trillion valuation given its compute and data center costs, and Crain's says a Michigan data center's fate hinges on the listing. FT Alphaville points to Anthropic's risk factors. Anthropic also features as a partner: Hg agreed to back a new European AI transformation firm alongside it, per PEI. The sources are thin on figures. ElevenLabs' CEO says starting IPO prep in 2028 would be a good goal, and Neuracle Medical has begun A-share IPO tutoring in China's race for a first brain-computer interface listing. Saudi Arabia's CMA approved tighter IPO rules, the FT says Texas Stock Exchange is trying to challenge the New York exchanges, and China has paused listings. MoneyWeek says the best IPOs are often the hardest to buy.",
      "sources": [
       {
-       "title": "Foreign investors take bulk of Banque du Caire IPO allocation",
-       "source": "Zawya",
-       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeGxIenp3UzBldFFyZHY1NEZaS3U4UGtBR0NNN0pZeVU1QjMyNGRLcmtfaGhBTGoyckxmVktWaEY4UUt4b3B5V3NCRUhrVEl2ZGZaUVlDMW1HOWMwNWE1eDdQSmw1YndhXzFMc2IzMlhQYldBQVoxajA1Zm5OMTFTZmlOV2QweEVRNEVxVDlaNzVqZ1VyQ3QtOThWck13X3pEUzZaMDVzQWttMVFvbVhn?oc=5"
+       "title": "Anthropic's compute and data centre bill casts doubt on $2 trillion IPO valuation",
+       "source": "Proactive financial news",
+       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTWV5bklUOEVDcU1veGtsTWVqY1lzbWdGa1pnUG8tV1pqSUI2YXF3YXhiQ3ZqbWhLQjVkanJlOURlVEQ0UkFvNlJQOERGQ2tLN2VkMGhBak5yR1R6SDlGRFM5NDVzZVBXVlpGcXptZW1KR29QX1dqY1I4dDV2NWFlb3BmSXJfUGVfWWF1X3lOWDk5dU1DQU84TWVpYkxQSTU0NW96bEE1QWtTOHFFMHhFQVlqd2FBQlZhUW9UUjV6bHY4NmdXWi1TSVg0VjFWdzEyQmlGVVc2bHJIQ3Z3UjV3TDNza2hhUQ?oc=5"
       },
       {
-       "title": "Coal India Said to Plan $1 Billion MCL IPO as Soon as This Month",
-       "source": "Bloomberg Markets",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-03/coal-india-said-to-plan-1-billion-mcl-ipo-as-soon-as-this-month"
+       "title": "Anthropic’s third quarter results mean IPO math and history are not on its side, analysts say",
+       "source": "Fortune",
+       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLXZGRmN4Mm9UUjBzdnVOMHEwVlJTNkpVZE1Odi1keFhfQm15VmdEUTBiRkdoV1l3SnpmWER6elZiYjZ2UTN2WTFoeEZOVTI0dXhwbnN5eEs2Q05IcUFyY054ME5qel93dkpQV1haWGJDbWx1dFhNQUxBYlozenB3UUVkNDYxRG5qT0JiMFNQQUN0Z1lwQm1yczlqWjlmLW9VTFNhRk9SS1VlNG9mZERQV21tVWo5Q1BueUlrcW5lZDk?oc=5"
       },
       {
-       "title": "#MarketsWithMC | BLS Polymers listed at Rs 248 on the NSE, a 65.33% premium over its issue price, while debuting at Rs 244.10 on the BSE, up 62.73%. - On the NSE, the listing gain is Rs 9,800 per lot, while on the BSE, t",
-       "source": "LinkedIn",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWndsdkFQbTdPMl85MTE0Ty1QUV9KUlJ5SldLYWdSbHJFVmgzNlk1Y3p2M3d3SDdhWFduMTNsYzIxdl9kWkxRUnZ0eUI3MDNBT2VTbFdlTWQ3OUZGLWkwT1F6UkxSeVZ5ZXkwVVZNOFFRSkVRbDZMX2ZxQ1ZuSGN6eFY0SVh3MHJ6UHRXdjJVM21lUHp0Ulp2V1NBLTZjN0l3V2NYOUVOU00tZUU?oc=5"
+       "title": "How the fate of a Michigan data center hinges on Anthropic’s mega IPO",
+       "source": "Crain's Detroit",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1NiVUZ3Y196SHAycncwYzROZU5UVjA0ekJkZ1I2ckU0Wnc5VDNUVF9SN2poLXFkN1Rfd09tSi1qejlqZTNCYkpmVllLNmZ1SjNsYnR2WFM0MTVpWkxQM2NCTVctRER4ZV9SNkI5c3YteDk1dlJrOFFIc3BHTG9yczg4UmJpVFVaaC0xUGZCazE0b3VzUXVoOW5n?oc=5"
       },
       {
-       "title": "Orion180 Opens New HQ in Florida After IPO",
-       "source": "Insurance Journal",
-       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ob1M3dlBWRVBjNWRNYWQ0T2lXeklJX3h6dkw0cmx6dUtVcjFPUjV3MGdHZ0RqOWZKZlVQelpyVVBScFRBOHZVdmRZUmM1UTVCRWNXRTVxb3VLeFV5aGpGMEZrMHpOdzY2LV9JOFlKWlB6Y0xyR3NoRQ?oc=5"
+       "title": "FTAV’s further reading",
+       "source": "FT Alphaville",
+       "url": "https://www.ft.com/content/a77b925e-ddb1-4467-b27f-5cf75ae649b8"
       },
       {
-       "title": "Barito Renewables Denies Inflating Volume, Price of Shares",
-       "source": "Bloomberg Markets",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-03/barito-renewables-denies-inflating-volume-price-of-shares"
-      },
-      {
-       "title": "Shoprite CEO Pay Plan Meets Resistance From Proxy Advisers",
-       "source": "Bloomberg Markets",
-       "url": "https://www.bloomberg.com/news/articles/2026-11-03/shoprite-ceo-pay-plan-meets-resistance-from-proxy-advisers"
-      }
-     ]
-    },
-    {
-     "text": "Venture and private equity news was mostly small. NeoSci held a $54.7 million first close for a biotech venture fund, and Singapore's NSV raised $53 million for its first biotech fund. Lumira Capital's next chapter is marked by Kalgene's Series A, and Mycofeast bought New Zealand's Daisy Lab. A Remara co-founder claims false fraud allegations were used to push him out.",
-     "sources": [
-      {
-       "title": "NeoSci raises $54.7M first close for its debut biotech venture fund",
-       "source": "Dealroom",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbzhiTElxY1lST0NIeXBBSGZuWFR2NUFmeGhCUW8yN19MX3JPNWtzT1o4OWJaZjc0UWxSSEFUeWxLNngtd2FEQTNUcmVyeWp6XzNtQ25XTjlFS2ZNQ1RhQzQzd3lwWTh5ZWVkV0g2U0tXS1NuV2xfYjRvZ0xMcEtmZ1NXLVlrX01Dc2ZWYVFhM29qajZialFhQUhmb0VtYnVKWEE?oc=5"
-      },
-      {
-       "title": "Singapore's NSV raises $53M for inaugural biotech fund, targeting US, Asia",
-       "source": "TNGlobal",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEFZSkJOWmh4aDhxdjVLM1VCTC1MUHhyNGFjTkpxeWI2eEZDOW8xQVhGUE5GM1ppSURMTE5TNFB6Yk9BYzE1VjUtWEtBZDl4ZDhFT2NGWFcyNmdhZGVGSDVmZ1FySkQwR1dZUGpKSnE1bllPS0dhMFNCMS1aTGt5Snl0ZWt1cjlnemNWRGl5ZnBFOTJFc1hOc0dhdVYyRGlYV0RtWi1MSmI3Zw?oc=5"
-      },
-      {
-       "title": "Kalgene’s Series A marks start of Lumira Capital’s next chapter",
+       "title": "Hg agrees to back new European AI transformation firm alongside Anthropic",
        "source": "PEI Private Equity",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbkNXOHdELWVoakVfWmdJRTMwa1JCcndwMUc0NHlaWmxFeGFXWDlwd2V0SHFXYnZHZnlScklQTjVSQ3dMMFY1QUIzWXlnWGhsaTd5REhwUlFfSzJaU1VLLWRyTV9BUG41SExJay1WN1ZfcWhUSHhaWG14aHg1ekh2cTZYS3hweW5sOFlBelhJd3JFMG95RUhpNGQ5MFoyWC1XS3dRdlBvWEhsUjQ?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMUVfUTBEd1V3Mm1rWTNNVXZVUlpYME1wZ21VVmp5UW0ta3daMV9vcHoyQ1lfbXkxYng0UllxWjZpNWg5S2wxUnpSbjAtTzlWb0JxMzYzSXRXQjNaM2tfNlpuY0gwMTg2Yi1RbnB3SElXZFd6TmJZQVZRWjBtNmRSVjJoMGw3QlhFTEEzcU8zMDZiakFzaFZEVTFldkJYTkVlQmNmeXBVZlpvbllkenpUSEpJbE11Zmp6?oc=5"
       },
       {
-       "title": "Mycofeast Acquires New Zealand's Daisy Lab to Scale Precision-Fermented Lactoferrin",
-       "source": "MycoStories",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTGRxVllpSjZnMnNmU0RmRHVwb0dLZ0RQT3gzUnJfUFRyUFFSOS1yaEtvNzZyb0xZS0NnR1VGOHAxLVdNQ3ZHd1M5Q1VLZ0hzY2hLT3RSVnVwekptTi1pTTdMakw4OER6aFVjalk5T1lQVmFPbDU3cmQ3Sm9fT3J3T3Z3OE5kRjZJTUs2OGZjRjEtSFZtaVg4SkZhWlRhVG8wYTQxOFZDQk96NUxsNHJPUks0SEltMzQ?oc=5"
+       "title": "ElevenLabs CEO Says a ‘Good Goal’ is to Start IPO Prep in 2028",
+       "source": "Bloomberg",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTmRzWDFOZ1VnOXBqR2hxbk1COWVRa3JDOUpBS3JGaEtTY0tObWFkTHliR3BhYU9EYnpjMGtyMXRYWmZaN0dqSG9EUlN0QThPZ1lOaHl5eTBEU2pDRjREOTk1T2p6TVhrMHBiNTBXU2FocXJFT1kyWFVIYjh3SXJhdEJXZGlWbXhqZVY1MG5CWWxNSnZwNlVUTDBNQzZsdDhTcmlhRWppNmJyTnRZeU1KMA?oc=5"
       },
       {
-       "title": "Remara co-founder claims false fraud allegations used to push him out",
-       "source": "AFR",
-       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNTlTdlBXZ2Rlb3lHYXN6enlUaENqLUlTaThEY3FaS3lXVVJQaHhCM3gyekFDYjJEZHU4MDloMTkzY1V3SlVDVFNYUGRCbmp5eVd1bWx3bTFBOEFfTW1GWkNYc3lHaVRUc011dzdCaUtXLVJVblZERVZNdmlXZnVZbDU1N3pYZTJpNWRkSHB1czZDeTc5TTlfeUR1MUZxOWIyYzNQeXBjdEJGeVpyWlRnRjNXZDFRYXRkQjB3NHcxWDdITERjRkxkOEVZNDAxa00?oc=5"
+       "title": "Tencent- and Alibaba-backed Neuracle Medical Launches A-share IPO Tutoring, Intensifying Race for China's First Brain-Computer Interface Listing",
+       "source": "BigGo Finance",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05ZVUtLXdleWMzMGZvX0hlOGkzRmlTN09rN093dHdRa3ZTZTk0S0hFbm9LZ19QMDVwdURvc2JDMmVfSTJWY3EwLWJoTjRlLVhVeU82VElfbVUxWXN3ZG5FcVo0X1RJZy1XYkN2bTZNSk1tTFNWc3c?oc=5"
+      },
+      {
+       "title": "Saudi CMA approves tighter IPO rules to boost capital markets",
+       "source": "Zawya",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeTh1a0x5OEFXbHgwX2NDSlZubTZBYWlLdm5BZ1JMT0JOblc2V0NtSUxyMXhVVUpvT2FsZHgtNlNMUXllQ01LRTlRc0hqLWJ2d1ZQc0FHOGc5RmwtZmFrUkxwQWwtazZwc0lRZTNVWjNTSUZ0QVYzRFNXX28xMi0zcnVyRFF3WjVmLVc5R3BaN282MVlBaVJBN3p3MmhwdEV5Sk1lUkhpMzlKTUJ3OU9WRnBDRUIxblRFZ0tN?oc=5"
+      },
+      {
+       "title": "A new threat to the New York-based stock exchanges",
+       "source": "FT Markets",
+       "url": "https://www.ft.com/content/21cb314f-47d3-4d83-ba8a-e70c018eb80c?syn-25a6b1a6=1"
+      },
+      {
+       "title": "China halts listings in bid to bolster struggling markets",
+       "source": "Financial Times",
+       "url": "https://www.ft.com/content/fec5981d-0c31-4f21-9a37-a1dd1526f530?syn-25a6b1a6=1"
+      },
+      {
+       "title": "The IPO catch: Why the best deals can be the hardest to buy",
+       "source": "MoneyWeek",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWnMxajYxcnAwRlVueVkyZGpNMEJ5VkNHaVBzUHBtZTA3d1hBYTVpRURoR0dLM2s2TGJQVnVaTmZLei1zdUZyeGh4T18yQ0xpaUs5UXUtVVJSY3pDYmtIQkZhQXBiTHc5ZXcxN2pLLTZHdTl6UXFCYmZjQ2tSSWp5R2xrTkVDc2IwZWhZWlVBZXFfdXBFVWowOUt5VWFhUQ?oc=5"
+      }
+     ]
+    },
+    {
+     "text": "Restructuring and cost-cutting continue. Schaeffler will cut 3,500 jobs and close four German sites, Virgin Media O2 plans thousands of cuts to reduce staff costs by 30% by 2029, and MarketWatch says Disney may cut thousands of jobs, though the stock barely moved. Asda named the former Morrisons boss as CEO after falling sales and mounting losses. The FT's piece on Weil Gotshal argues law firms die when partners leave for higher pay elsewhere. Hires include Affinius Capital naming David Diez as MD in Europe and Neuberger adding senior Nordics talent.",
+     "sources": [
+      {
+       "title": "German car parts giant Schaeffler axes 3,500 jobs",
+       "source": "FT Companies",
+       "url": "https://www.ft.com/content/25ce0d50-e7b6-4b14-93bb-ee5da6f747c0?syn-25a6b1a6=1"
+      },
+      {
+       "title": "Virgin Media O2 to cut thousands of jobs",
+       "source": "FT Companies",
+       "url": "https://www.ft.com/content/4c0292f4-ca11-45f7-9da8-147fba2e0158"
+      },
+      {
+       "title": "Thousands of Disney job cuts may be coming. Investors are asking what comes next.",
+       "source": "MarketWatch",
+       "url": "https://www.marketwatch.com/story/thousands-of-disney-job-cuts-may-be-coming-investors-are-asking-what-comes-next-19cc0662?mod=mw_rss_topstories"
+      },
+      {
+       "title": "Asda appoints ex-Morrisons boss as new CEO",
+       "source": "FT Companies",
+       "url": "https://www.ft.com/content/3b0c35d2-78c9-4f8a-9789-fdd76532bd7d?syn-25a6b1a6=1"
+      },
+      {
+       "title": "What Weil Gotshal has taught us about how law firms die",
+       "source": "FT Companies",
+       "url": "https://www.ft.com/content/958c09b7-bebf-4322-9c11-c2ec5b0eed73"
+      },
+      {
+       "title": "Affinius Capital appoints David Diez as MD in European drive",
+       "source": "Alternative Credit Investor",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQREtvVWRnTXRNaXpFVDJVeWhqOGlOWmJra2I3eVpYZmZDRjlnTVY4QTR5QXVKLXdsbS0yMkNXMHZ2TTRrNTAxTHl3RE84OEhPV1J6Vzg2TWlNLUstUjVWMS11OENmVWZXblZMc2NEYUp2U2s2QXc0eWVKUWU3aU41OV9pZ3lydjhFYkUwUDhrQlhVTzUzelZzSTUxUzFadFV2NDlLWkJZci1INC1pUXdN?oc=5"
+      },
+      {
+       "title": "Neuberger Strengthens Nordics Business with Senior Hire",
+       "source": "Funds Europe",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa3lreDM4SnVBS3Z5WDlUY081T2xJV2k0NzZTcWxWSzhTWGM4VXVkclBiempUbEc2Y2RDYTBSVEJRX1hsT3JGYk5BeENJcGRoeTl2cTdxSXNDaTdydmhpS3VFUU4wY1dtMWJnOVhyLWo4UHhRdnpkWk1fNmxXQ1lkVzVNck9tWVRS?oc=5"
       }
      ]
     }
    ],
-   "words": 343,
-   "minutes": 1.5
+   "words": 399,
+   "minutes": 1.8
   }
  ],
  "headlines": [
   {
-   "title": "Orion180 Opens New HQ in Florida After IPO",
-   "source": "Insurance Journal",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ob1M3dlBWRVBjNWRNYWQ0T2lXeklJX3h6dkw0cmx6dUtVcjFPUjV3MGdHZ0RqOWZKZlVQelpyVVBScFRBOHZVdmRZUmM1UTVCRWNXRTVxb3VLeFV5aGpGMEZrMHpOdzY2LV9JOFlKWlB6Y0xyR3NoRQ?oc=5",
-   "published": "2026-11-03T06:05:07+00:00"
-  },
-  {
-   "title": "Saudi Aramco Profit Rises 9%",
+   "title": "JPM’s Michele Tells US Treasury ‘Get Rid of the 20-Year’",
    "source": "Bloomberg Markets",
-   "url": "https://www.bloomberg.com/news/videos/2026-11-03/saudi-aramco-profit-rises-9-video",
-   "published": "2026-11-03T06:04:04+00:00"
+   "url": "https://www.bloomberg.com/news/videos/2026-11-03/jpm-s-michele-tells-us-treasury-get-rid-of-the-20-year-video",
+   "published": "2026-11-03T11:40:52+00:00"
   },
   {
-   "title": "Anthropic investors urge caution on IPO pricing, target $1.5T-$1.6T valuation - WSJ",
-   "source": "TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOXzhYaWZPYXNmOXByT0hfa2pKdF90OFRGQmxjQmhUQXE5Z0NJaWdfRjlNY1ctUm01WElkNHcwRzBhR3lmVUF6OUExTW4zNk8xT2RHZWJuRlQ2akNaZ0pWdEtETnBQRkZiT25EaG5BWVl2Z2ZHYkpRRXFCdXNCaUtBSUY1LW44UjJkc2pnUXVyWGV1OVEyOC1WRmZfVFgtWEtLX0EzbzBtSi1GTnNEMmRFOHFYSVg0NEd2c0tqS0RfcnNlQUZETDBpWmJfbUZKaGExSGNPNHRxc2c?oc=5",
-   "published": "2026-11-03T05:41:00+00:00"
+   "title": "Oklahoma Teachers to finance the future with new private debt commitments",
+   "source": "Alternatives Watch",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOckJZZ3R5NldNRHowVGZzTC1WWGZSbDJZeTV2UWZiMVQzbUxJb0RhRWlwWGI1ejdhQUVoYWpKeHJZdENCVjZ0Nm1hSHBDM0pEOTVzNTFPRWFIOHNVdzNZNmxfZmZvaGRlMjkwdnFzV0Fsclh4aEdYV2ZiU3Z2clRpaThTeS1kXy01TkhVR1ZGZTFZY3dNTEZHRWhTSjlQeEpDSFd3ME5KYzlHZ0U?oc=5",
+   "published": "2026-11-03T11:35:00+00:00"
   },
   {
-   "title": "YHTE | Primagrove Stock Overview (Pre-Ipo)",
+   "title": "Anthropic's compute and data centre bill casts doubt on $2 trillion IPO valuation",
+   "source": "Proactive financial news",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTWV5bklUOEVDcU1veGtsTWVqY1lzbWdGa1pnUG8tV1pqSUI2YXF3YXhiQ3ZqbWhLQjVkanJlOURlVEQ0UkFvNlJQOERGQ2tLN2VkMGhBak5yR1R6SDlGRFM5NDVzZVBXVlpGcXptZW1KR29QX1dqY1I4dDV2NWFlb3BmSXJfUGVfWWF1X3lOWDk5dU1DQU84TWVpYkxQSTU0NW96bEE1QWtTOHFFMHhFQVlqd2FBQlZhUW9UUjV6bHY4NmdXWi1TSVg0VjFWdzEyQmlGVVc2bHJIQ3Z3UjV3TDNza2hhUQ?oc=5",
+   "published": "2026-11-03T11:35:00+00:00"
+  },
+  {
+   "title": "Private credit demand holds firm, but investors are growing cautious",
+   "source": "InvestmentNews",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlNDZVBEUXp0OFlsQzMydXk3UDlOY1JqbGVLX0Zqb2t2Qk9lblROc1ZucmRhTzVmemFveEFCeTRLb0JxcW40VmtZeHJVN1RoMnB3SldldzMzTlR1Y2huNDZBMzVOWXN4eXNhQnYzU1dhWWlNVXY1OXU0UGtyeGptYkNrTzJ2aTBiOUFWOURZS1p6MVVfeGpXcHpwYzA2WklHUXJoemtISVFSOU5BVVY1NXVpejBVUUNsMWc?oc=5",
+   "published": "2026-11-03T11:32:30+00:00"
+  },
+  {
+   "title": "McDonald’s Is Beefing Up, but It Won’t Be Cheap",
+   "source": "WSJ Markets",
+   "url": "https://www.wsj.com/finance/stocks/mcdonalds-is-beefing-up-but-it-wont-be-cheap-9ce73fff?mod=rss_markets_main",
+   "published": "2026-11-03T11:25:00+00:00"
+  },
+  {
+   "title": "AI Investors Seek Downside Protection",
+   "source": "WSJ Markets",
+   "url": "https://www.wsj.com/finance/investing/ai-investors-seek-downside-protection-d1a8d5da?mod=rss_markets_main",
+   "published": "2026-11-03T11:25:00+00:00"
+  },
+  {
+   "title": "Tencent- and Alibaba-backed Neuracle Medical Launches A-share IPO Tutoring, Intensifying Race for China's First Brain-Computer Interface Listing",
+   "source": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05ZVUtLXdleWMzMGZvX0hlOGkzRmlTN09rN093dHdRa3ZTZTk0S0hFbm9LZ19QMDVwdURvc2JDMmVfSTJWY3EwLWJoTjRlLVhVeU82VElfbVUxWXN3ZG5FcVo0X1RJZy1XYkN2bTZNSk1tTFNWc3c?oc=5",
+   "published": "2026-11-03T11:25:00+00:00"
+  },
+  {
+   "title": "DuPont Swings to a Profit and Lifts Outlook",
+   "source": "WSJ Business",
+   "url": "https://www.wsj.com/business/earnings/dupont-swings-to-a-profit-and-lifts-outlook-e941091d?mod=pls_whats_news_us_business_f",
+   "published": "2026-11-03T11:22:00+00:00"
+  },
+  {
+   "title": "Neo raises ₹6,200 cr from second private credit fund",
+   "source": "BusinessLine",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdnpWQmtOc2FWQ1BJa3pDSDF4T3g1bXFnOE15dWc4WkF2dlZKdzhYU3MyN0ZGaEtFaTFwblh0cXc1OVR1aExQMXROa2R2cTc1UWItTE8xV3FqbU1ZbDAzQmtVQzBUWlRHV2c5d1dpdmQ3Y1lhWkNPTkJTSlRhRHFOMlJlSVBid09zSU5Xb0NJdDF6Szc5Qk14aDhIMWlTYjFGZVZMRkpwNXpPTWpvc0xaMXVCRE1sQdIBvAFBVV95cUxNZ3JrOFZSUldHUmphcXBYN3cybWlSdTZpVDVFcy03OFJ4aGFWTzFqZHlJNC0wZ19BM2ZfU1RQOF9VQkc4ZEJFLV9DLU1qY1FEV3ltZUFXa0hjc2ctUV9JbjBQSjg4aW03RkJRWWUtMzJTMVJXMWVPbmE4QldVTGY5SEpnTnBtVlhvQm5YaVpmVDh4N0dKQjQ1akNWbGhaY1ByVHYyamNHNWdsLXpPNVlkQXB3R2tzUEVlVUk0ZQ?oc=5",
+   "published": "2026-11-03T11:16:32+00:00"
+  },
+  {
+   "title": "How to Invest in the Rise of China’s Biotech: Buy U.S. Drug Stocks",
    "source": "Barron's",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JYU9WYXZyWm9tNDllbW5ZdEM3Q3pULTFTZGUwYVduQWRGZVRIOFJlVjBJLUhYZEVWOHQ3ZnByTU1qTXZUanluaXJoTzd0OVRTZXZmb2xvWHRvT28?oc=5",
-   "published": "2026-11-03T05:39:00+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xTk9GQTlmaXFDY09oWFB4QlMyalNDNGxBa0FPUVZxQk95Zmg1RFJUTFZmci1vdkg1ZUd2cHBLWnFRME9XRlU2QzliVFpUWEE5U05ndW96MXFoY25EUV9MRW5DeWZlSEhzWnp5U1h4T1dRY0lmMkNhWFN3?oc=5",
+   "published": "2026-11-03T11:15:00+00:00"
   },
   {
-   "title": "Man Group (LSE:EMG) Private Credit Push Gains Japanese Insurance Backing",
-   "source": "Kalkine Media",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGlZM0tnbXVwLTBHRkN3cnJURVR3bnNnZjRrWDdZN2pBWUFPY240MWxfWmtVSWNNU0R1bjYzLVFaTkY3aDJpV0pRRll0elpVc1llM3lMNnNmODY0RWRrb0ZVYVhkcU5KQUdZdnBWcnBtU2N3NkhCU01raDlqUW5fZzR3N1hWRmFnU1Q4MHBzWFBWY1J3NllXaHc1VHZaQndQakJkSjRTaFdRYjhjemFvUXhoS3o?oc=5",
-   "published": "2026-11-03T05:36:00+00:00"
+   "title": "The IPO catch: Why the best deals can be the hardest to buy",
+   "source": "MoneyWeek",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWnMxajYxcnAwRlVueVkyZGpNMEJ5VkNHaVBzUHBtZTA3d1hBYTVpRURoR0dLM2s2TGJQVnVaTmZLei1zdUZyeGh4T18yQ0xpaUs5UXUtVVJSY3pDYmtIQkZhQXBiTHc5ZXcxN2pLLTZHdTl6UXFCYmZjQ2tSSWp5R2xrTkVDc2IwZWhZWlVBZXFfdXBFVWowOUt5VWFhUQ?oc=5",
+   "published": "2026-11-03T11:11:29+00:00"
   },
   {
-   "title": "FirstFT: America votes",
+   "title": "Partners Group Wins $510 Million Insurer Mandate as Its US Flagship Leaves Two-Thirds of Exit Reques",
+   "source": "ad-hoc-news.de",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeXozOFNRd3ZCRDJDcU9mSUtrdDd0YlpvZGNLRS1CVlV4amhYQmJRT0pfUWJuNlRsYkh1Q2E2Ni1jbmJGNmUybFZ4ZEFRMkZ3dllDclhVdFhjV24wM1dFM3RKdHE4QlRWWld2UktGckNxaXB0OVVLclZzM2ZzZGJ4OEFRSFRFbXVpQWtBdDh4a0lYcnZvU3ZMeVlxR1p3RC1RZkdoVjlPRENsb3k5MDlpM08tU0FqSnVBTW1oRXd0Q2N0Q1dSdzgxZEZFeTBsbVRfcHZRWEZzcjVLOFdVSXZiVGZneE5nVXctTGc2LVNrYkJOZlBjbzgw?oc=5",
+   "published": "2026-11-03T11:10:54+00:00"
+  },
+  {
+   "title": "Saudi CMA approves tighter IPO rules to boost capital markets",
+   "source": "Zawya",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeTh1a0x5OEFXbHgwX2NDSlZubTZBYWlLdm5BZ1JMT0JOblc2V0NtSUxyMXhVVUpvT2FsZHgtNlNMUXllQ01LRTlRc0hqLWJ2d1ZQc0FHOGc5RmwtZmFrUkxwQWwtazZwc0lRZTNVWjNTSUZ0QVYzRFNXX28xMi0zcnVyRFF3WjVmLVc5R3BaN282MVlBaVJBN3p3MmhwdEV5Sk1lUkhpMzlKTUJ3OU9WRnBDRUIxblRFZ0tN?oc=5",
+   "published": "2026-11-03T11:08:50+00:00"
+  },
+  {
+   "title": "Asda appoints ex-Morrisons boss as new CEO",
+   "source": "FT Companies",
+   "url": "https://www.ft.com/content/3b0c35d2-78c9-4f8a-9789-fdd76532bd7d?syn-25a6b1a6=1",
+   "published": "2026-11-03T11:08:37+00:00"
+  },
+  {
+   "title": "Anthropic’s third quarter results mean IPO math and history are not on its side, analysts say",
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLXZGRmN4Mm9UUjBzdnVOMHEwVlJTNkpVZE1Odi1keFhfQm15VmdEUTBiRkdoV1l3SnpmWER6elZiYjZ2UTN2WTFoeEZOVTI0dXhwbnN5eEs2Q05IcUFyY054ME5qel93dkpQV1haWGJDbWx1dFhNQUxBYlozenB3UUVkNDYxRG5qT0JiMFNQQUN0Z1lwQm1yczlqWjlmLW9VTFNhRk9SS1VlNG9mZERQV21tVWo5Q1BueUlrcW5lZDk?oc=5",
+   "published": "2026-11-03T11:04:00+00:00"
+  },
+  {
+   "title": "The Telling Changes to Board Composition",
+   "source": "WSJ Markets",
+   "url": "https://www.wsj.com/business/the-telling-changes-to-board-composition-3e42ee92?mod=rss_markets_main",
+   "published": "2026-11-03T11:03:00+00:00"
+  },
+  {
+   "title": "Palantir Profit Soars as U.S. Commercial Revenue Overtakes Government Business",
+   "source": "WSJ Business",
+   "url": "https://www.wsj.com/business/earnings/palantir-lifts-outlook-as-u-s-commercial-business-overtakes-government-business-16eb693f?mod=pls_whats_news_us_business_f",
+   "published": "2026-11-03T11:03:00+00:00"
+  },
+  {
+   "title": "Today’s top high-yield savings rates: Up to 4.70% on Nov. 3, 2026",
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DYUoyTXo2cTJpMDZDMFlyb19RS3hVSEI5bHkzdVdRdUNaVU10dTJSenNEQXFYWXN5bjFQMUlZU1lsVE9icjRfMFZXLVBZbEVmMDBMbk5yZDVNb0hrMGg5WTZjNjdWbno0V3dPVVV0eWYzYUU?oc=5",
+   "published": "2026-11-03T11:01:00+00:00"
+  },
+  {
+   "title": "What Weil Gotshal has taught us about how law firms die",
+   "source": "FT Companies",
+   "url": "https://www.ft.com/content/958c09b7-bebf-4322-9c11-c2ec5b0eed73",
+   "published": "2026-11-03T11:00:07+00:00"
+  },
+  {
+   "title": "Health Insurance Is the Sleeper Inflation Issue",
+   "source": "WSJ Markets",
+   "url": "https://www.wsj.com/finance/investing/health-insurance-is-the-sleeper-inflation-issue-fea899df?mod=rss_markets_main",
+   "published": "2026-11-03T11:00:00+00:00"
+  },
+  {
+   "title": "The sleeper inflation issue in the midterms: health Insurance. Read more in today’s WSJ Economics newsletter:",
+   "source": "WSJ Economy",
+   "url": "https://www.wsj.com/finance/investing/health-insurance-is-the-sleeper-inflation-issue-fea899df?mod=rss_socialeconomyfeed",
+   "published": "2026-11-03T11:00:00+00:00"
+  },
+  {
+   "title": "Best high-yield savings interest rates today, Tuesday, November 3, 2026: Earn up to 4.4% APY",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUEZvMXRDc3VNSVRBMnoySENib1ZlSFRxQWlCdVZOUGRUNkJ0bEFCTFV6dzFQYXEyM1l2YTlocHdrYXNaUld0SG9UZ2oyWGdwQXkwaGFoRHd5WWs2N2MzMVYwT1JSaEw1Sy1PRkZFdXNFN2s3NmNYc09xYXJXMjN3bWVOMWhvMV9mM3NVV29xRk82UElTV1RSay1BUUhxbWJkbWhaNU1QbUlMZmhpSy1pb1pTM3FfRC1vUVlwcUR6dlNRdEhfU2hIMUFIVFd1Qk1ROTZuYjhTZzl5OEZwUVVQM3VVdlFvYkE4cnpYekZUUWRndw?oc=5",
+   "published": "2026-11-03T11:00:00+00:00"
+  },
+  {
+   "title": "Dollar Turns Higher Along With Oil Prices",
+   "source": "WSJ Markets",
+   "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-midterm-elections-2352f046?mod=rss_markets_main",
+   "published": "2026-11-03T10:59:00+00:00"
+  },
+  {
+   "title": "TLG Capital provides credit facility to Nigeria’s Koolboks",
+   "source": "Africa Private Equity News",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlpFOVY2ZTlJUHFQQ0JfMllKWE5CMGZxNjhseXloQmx3dDI1WWNhemwzdDN3b2FZUWJuX3NleE9HQjFQMTE0b0tDSmNuSnM4eEZwU3VYckVQQUNWWG9oZGQycHJndG5XeF9lcnFyNERHLVFoWVZ4WUpGTHZwQmhCZEdSeko?oc=5",
+   "published": "2026-11-03T10:58:17+00:00"
+  },
+  {
+   "title": "China Steps in to Boost Stocks, Cool Off Yuan",
+   "source": "Bloomberg Markets",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-03/china-steps-in-to-boost-stocks-cool-off-yuan",
+   "published": "2026-11-03T10:58:08+00:00"
+  },
+  {
+   "title": "Oil has had a massive run, but a prominent bull sees a turning point on midterm eve",
+   "source": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/oil-has-had-a-massive-run-but-a-prominent-bull-sees-a-turning-point-on-midterm-eve-be2c5fa7?mod=mw_rss_topstories",
+   "published": "2026-11-03T10:54:00+00:00"
+  },
+  {
+   "title": "Americans begin voting in crucial midterm elections",
+   "source": "Financial Times",
+   "url": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+   "published": "2026-11-03T10:52:57+00:00"
+  },
+  {
+   "title": "Lufthansa Turns Cautious on Outlook as Fuel Costs Weigh",
+   "source": "WSJ Business",
+   "url": "https://www.wsj.com/business/earnings/lufthansa-posts-higher-profit-despite-increase-in-fuel-costs-f6700a8c?mod=pls_whats_news_us_business_f",
+   "published": "2026-11-03T10:48:00+00:00"
+  },
+  {
+   "title": "FirstFT: Officials discuss Trump, Putin and Xi meeting",
    "source": "FT Companies",
    "url": "https://www.ft.com/content/65982705-e3f3-4dfe-8d5d-39809f8a1103?syn-25a6b1a6=1",
-   "published": "2026-11-03T05:31:19+00:00"
+   "published": "2026-11-03T10:47:20+00:00"
   },
   {
-   "title": "Anthropic Revenue Nears $17 Billion as IPO Looms",
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUEV6SkM2MWhJMFZ3bm1hRExOUzRTTXlRZExMcHQ4ZjdjU0RFTTJLanNIUWpydlY1MjIxZXpHa0RyTGVDOGtwTVJBRjM1STFTeGFReWlfVzRIb2ZYYlNIaFdGVDJHWFpiX0VOLUtESFFCYkdRb0k1QU9KZTNZbWJYWVY2SDc0LXVYTTByeUM0aGdzYmd4XzZjRFdlVWRPdU5xZ2Q1bDdIRXE1TjB4d2ZZX3htX2lITmtZcTNMUDZ5aXBnZHRTalE?oc=5",
-   "published": "2026-11-03T05:30:26+00:00"
+   "title": "DoorDash tells employees not to connect with Instacart peers on LinkedIn. It's an uncommon M&A ask",
+   "source": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcXYxR1pwQTJyT3MyNlh6bDlCU3U4RDJ0SkZfeWRLYXp0cUxDeHU3YUwxanpHakNLMkV5c2xzTlFkc3lveFZXNHFJTmJ5Z3RzQVdjdWt3V2ZTT2k2aFlsM2h5NU5zYXZTbVhGa0dhQlV0dkkwS2tEN0dsWmtuT05UMWRaVVFhUGtVMGc0dV9DZlVWZnJ6dFRBNzgtWXBTZWNBZGxaQw?oc=5",
+   "published": "2026-11-03T10:47:00+00:00"
   },
   {
-   "title": "Foreign investors take bulk of Banque du Caire IPO allocation",
-   "source": "Zawya",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeGxIenp3UzBldFFyZHY1NEZaS3U4UGtBR0NNN0pZeVU1QjMyNGRLcmtfaGhBTGoyckxmVktWaEY4UUt4b3B5V3NCRUhrVEl2ZGZaUVlDMW1HOWMwNWE1eDdQSmw1YndhXzFMc2IzMlhQYldBQVoxajA1Zm5OMTFTZmlOV2QweEVRNEVxVDlaNzVqZ1VyQ3QtOThWck13X3pEUzZaMDVzQWttMVFvbVhn?oc=5",
-   "published": "2026-11-03T05:29:12+00:00"
+   "title": "Top High-Yield Savings Accounts Offering up to 5.00% APY Right Now, Nov. 3, 2026",
+   "source": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeU0zS21iejBsUDBocTNLUGdnMXpDc3B0WERlQmhnaVRwMThfZk9hZVlxdThaYTdPOEQtYXFpZTJ5a0MxcW4tTmQ1Zm8xSzRvcFlIMEtSdUZtY2FNaWNPODJMOXBKYzJIMFM2TFBJT2pzVGduU0VPaVdWTTN3SU51NHJ1QW5kLU04VEFEelpn?oc=5",
+   "published": "2026-11-03T10:46:13+00:00"
   },
   {
-   "title": "#MarketsWithMC | BLS Polymers listed at Rs 248 on the NSE, a 65.33% premium over its issue price, while debuting at Rs 244.10 on the BSE, up 62.73%. - On the NSE, the listing gain is Rs 9,800 per lot, while on the BSE, t",
-   "source": "LinkedIn",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWndsdkFQbTdPMl85MTE0Ty1QUV9KUlJ5SldLYWdSbHJFVmgzNlk1Y3p2M3d3SDdhWFduMTNsYzIxdl9kWkxRUnZ0eUI3MDNBT2VTbFdlTWQ3OUZGLWkwT1F6UkxSeVZ5ZXkwVVZNOFFRSkVRbDZMX2ZxQ1ZuSGN6eFY0SVh3MHJ6UHRXdjJVM21lUHp0Ulp2V1NBLTZjN0l3V2NYOUVOU00tZUU?oc=5",
-   "published": "2026-11-03T05:25:12+00:00"
+   "title": "How the fate of a Michigan data center hinges on Anthropic’s mega IPO",
+   "source": "Crain's Detroit",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1NiVUZ3Y196SHAycncwYzROZU5UVjA0ekJkZ1I2ckU0Wnc5VDNUVF9SN2poLXFkN1Rfd09tSi1qejlqZTNCYkpmVllLNmZ1SjNsYnR2WFM0MTVpWkxQM2NCTVctRER4ZV9SNkI5c3YteDk1dlJrOFFIc3BHTG9yczg4UmJpVFVaaC0xUGZCazE0b3VzUXVoOW5n?oc=5",
+   "published": "2026-11-03T10:45:00+00:00"
+  },
+  {
+   "title": "ElevenLabs CEO Says a ‘Good Goal’ is to Start IPO Prep in 2028",
+   "source": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTmRzWDFOZ1VnOXBqR2hxbk1COWVRa3JDOUpBS3JGaEtTY0tObWFkTHliR3BhYU9EYnpjMGtyMXRYWmZaN0dqSG9EUlN0QThPZ1lOaHl5eTBEU2pDRjREOTk1T2p6TVhrMHBiNTBXU2FocXJFT1kyWFVIYjh3SXJhdEJXZGlWbXhqZVY1MG5CWWxNSnZwNlVUTDBNQzZsdDhTcmlhRWppNmJyTnRZeU1KMA?oc=5",
+   "published": "2026-11-03T10:43:06+00:00"
+  },
+  {
+   "title": "Mind the gap: Is high yield paid for the jump?",
+   "source": "https://bondvigilantes.com/",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX0lhbEtkc2JFM3gyNEhacndqOFdnVXprbWUtNk9CRGhpTkswVjdCcWZxbDBPdzVTZ3p2cXd6NGpMUzVmS0JDRWdaOENoUG1aRUVEVFJWZkM1MXJveE9Ga19JQ19PUWdHUkYycG1qaFd1aURDTEhmTVZzUVpwX1lBVTluOE5mQlhMc20yTEFR?oc=5",
+   "published": "2026-11-03T10:41:50+00:00"
+  },
+  {
+   "title": "Emaar Said to Study Buyout of $15 Billion Construction Arm",
+   "source": "Bloomberg Markets",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-03/emaar-is-said-to-study-buyout-of-14-billion-construction-arm",
+   "published": "2026-11-03T10:39:51+00:00"
+  },
+  {
+   "title": "Hg agrees to back new European AI transformation firm alongside Anthropic",
+   "source": "PEI Private Equity",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMUVfUTBEd1V3Mm1rWTNNVXZVUlpYME1wZ21VVmp5UW0ta3daMV9vcHoyQ1lfbXkxYng0UllxWjZpNWg5S2wxUnpSbjAtTzlWb0JxMzYzSXRXQjNaM2tfNlpuY0gwMTg2Yi1RbnB3SElXZFd6TmJZQVZRWjBtNmRSVjJoMGw3QlhFTEEzcU8zMDZiakFzaFZEVTFldkJYTkVlQmNmeXBVZlpvbllkenpUSEpJbE11Zmp6?oc=5",
+   "published": "2026-11-03T10:37:34+00:00"
+  },
+  {
+   "title": "Can one person run a drug company with AI? Anthropic is betting on a Kendall Square startup to prove it.",
+   "source": "MassLive.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXFkcGRjcWEwYWQwdDZkeFNTdzlPdVU5ZGQwSk5ObkJYTk9fb01hYnJwSVRzaDR2ZndvS2VldUtGUUJMMnU5dnRIUWNRYXBPVkZhSW9IWjUxS05UUVdhVjVFdlk3djVpWGctM0Q0cm9ZbXJoYXJEY2t2UzIweEloSjViT2x6QlJCd3N3UnRmT2NDUmhNYzdJN0tZQWVSTEZJV3NwbWFNNFZWSDlGdkdJX1FGMUk?oc=5",
+   "published": "2026-11-03T10:37:00+00:00"
+  },
+  {
+   "title": "Thousands of Disney job cuts may be coming. Investors are asking what comes next.",
+   "source": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/thousands-of-disney-job-cuts-may-be-coming-investors-are-asking-what-comes-next-19cc0662?mod=mw_rss_topstories",
+   "published": "2026-11-03T10:36:00+00:00"
+  },
+  {
+   "title": "Neuberger Strengthens Nordics Business with Senior Hire",
+   "source": "Funds Europe",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa3lreDM4SnVBS3Z5WDlUY081T2xJV2k0NzZTcWxWSzhTWGM4VXVkclBiempUbEc2Y2RDYTBSVEJRX1hsT3JGYk5BeENJcGRoeTl2cTdxSXNDaTdydmhpS3VFUU4wY1dtMWJnOVhyLWo4UHhRdnpkWk1fNmxXQ1lkVzVNck9tWVRS?oc=5",
+   "published": "2026-11-03T10:31:31+00:00"
+  },
+  {
+   "title": "This signal from the corporate bond market has historically preceded big drawdowns for the S&P 500",
+   "source": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/this-signal-from-the-corporate-bond-market-has-historically-preceded-big-drawdowns-for-the-s-p-500-8c1a3d25?mod=mw_rss_topstories",
+   "published": "2026-11-03T10:31:00+00:00"
+  },
+  {
+   "title": "Entering your 40s increasingly means starting another full-time job: Pretending you can still see.",
+   "source": "WSJ Health",
+   "url": "https://www.wsj.com/health/wellness/vision-changes-readers-glasses-middle-age-739767db?mod=rss_socialhealth",
+   "published": "2026-11-03T10:30:00+00:00"
+  },
+  {
+   "title": "Apple Is an AI Safe Haven—but Safety Isn’t Cheap",
+   "source": "WSJ Markets",
+   "url": "https://www.wsj.com/finance/stocks/apple-is-an-ai-safe-havenbut-safety-isnt-cheap-68fa76f6?mod=rss_markets_main",
+   "published": "2026-11-03T10:30:00+00:00"
+  },
+  {
+   "title": "Gold Futures Slide as Higher Oil Prices Fuel Rate-Hike Concerns",
+   "source": "WSJ Markets",
+   "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-better-investor-sentiment-5fe76e34?mod=rss_markets_main",
+   "published": "2026-11-03T10:30:00+00:00"
+  },
+  {
+   "title": "For Midterms Night, a TV Schedule Overflowing With Options",
+   "source": "NYT Business",
+   "url": "https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html",
+   "published": "2026-11-03T10:20:06+00:00"
+  },
+  {
+   "title": "What analysts are saying as Apple’s stock falls after earnings report",
+   "source": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
+   "published": "2026-11-03T10:20:00+00:00"
+  },
+  {
+   "title": "Saudi Aramco Profit Jumps Despite Damaging Attacks on Pipelines and Refineries",
+   "source": "NYT Business",
+   "url": "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html",
+   "published": "2026-11-03T10:19:29+00:00"
+  },
+  {
+   "title": "Oil prices steady at $106 after sharp declines",
+   "source": "Financial Times",
+   "url": "https://www.ft.com/content/d0ab9542-8542-4357-a534-ddbdd1a9678d?syn-25a6b1a6=1",
+   "published": "2026-11-03T10:16:52+00:00"
+  },
+  {
+   "title": "Brussels sets tight deadline for ECB president nominations",
+   "source": "FT Global Economy",
+   "url": "https://www.ft.com/content/c5c430f5-e9b7-434b-851a-565cc43ccb94?syn-25a6b1a6=1",
+   "published": "2026-11-03T10:14:00+00:00"
+  },
+  {
+   "title": "Europe’s Junk Market Sees Another Loan Pulled as Iqony Axes Deal",
+   "source": "Bloomberg Markets",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-03/europe-s-junk-market-sees-another-loan-pulled-as-iqony-axes-deal",
+   "published": "2026-11-03T10:10:29+00:00"
+  },
+  {
+   "title": "Affinius Capital appoints David Diez as MD in European drive",
+   "source": "Alternative Credit Investor",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQREtvVWRnTXRNaXpFVDJVeWhqOGlOWmJra2I3eVpYZmZDRjlnTVY4QTR5QXVKLXdsbS0yMkNXMHZ2TTRrNTAxTHl3RE84OEhPV1J6Vzg2TWlNLUstUjVWMS11OENmVWZXblZMc2NEYUp2U2s2QXc0eWVKUWU3aU41OV9pZ3lydjhFYkUwUDhrQlhVTzUzelZzSTUxUzFadFV2NDlLWkJZci1INC1pUXdN?oc=5",
+   "published": "2026-11-03T10:06:30+00:00"
+  },
+  {
+   "title": "Treasury, European Government Bond Yields Rise as Markets Await U.S. Midterm Election Results",
+   "source": "WSJ Markets",
+   "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-as-markets-await-midterm-election-results-ddbae162?mod=rss_markets_main",
+   "published": "2026-11-03T10:04:00+00:00"
+  },
+  {
+   "title": "His Business Was Tough. Diesel Prices Made It Impossible.",
+   "source": "NYT Business",
+   "url": "https://www.nytimes.com/2026/11/03/business/trucking-diesel-prices.html",
+   "published": "2026-11-03T10:02:57+00:00"
+  },
+  {
+   "title": "For Iowa Journalist Laura Belin, Covering Politics Is a Constant Battle",
+   "source": "NYT Business",
+   "url": "https://www.nytimes.com/2026/11/03/business/media/laura-belin-iowa-political-reporter.html",
+   "published": "2026-11-03T10:02:37+00:00"
+  },
+  {
+   "title": "Motivational speaker Mel Robbins’ real estate journey from a Massachusetts farmhouse to a Vermont retreat",
+   "source": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/motivational-speaker-mel-robbins-real-estate-journey-from-a-massachusetts-farmhouse-to-a-vermont-retreat-85b4d958?mod=mw_rss_topstories",
+   "published": "2026-11-03T10:02:00+00:00"
+  },
+  {
+   "title": "Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care",
+   "source": "NYT Health",
+   "url": "https://www.nytimes.com/2026/11/03/us/insuers-nonpayment-arbitration.html",
+   "published": "2026-11-03T10:01:46+00:00"
+  },
+  {
+   "title": "US voters prepare to deliver verdict on Trump",
+   "source": "Financial Times",
+   "url": "https://www.ft.com/content/086e9324-9d27-43a7-9334-d743f7cf8626?syn-25a6b1a6=1",
+   "published": "2026-11-03T10:00:06+00:00"
+  },
+  {
+   "title": "See How Race Forecasters Project the Senate and House—and Pick Your Own Winners",
+   "source": "WSJ Markets",
+   "url": "https://www.wsj.com/articles/midterms-2026-election-predictions-odds-40ddec5a?mod=rss_markets_main",
+   "published": "2026-11-03T10:00:00+00:00"
+  },
+  {
+   "title": "Lula Victory Adds to Brazil Farm Angst as Defaults Hit Record",
+   "source": "Bloomberg Markets",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-03/lula-victory-adds-to-brazil-farm-angst-as-defaults-hit-record",
+   "published": "2026-11-03T10:00:00+00:00"
+  },
+  {
+   "title": "Today's High-Yield Savings Rates for November 3, 2026: Up to 5.00%",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV21PX2pHbUtYT2RWM3Y0VEpYOGlOdF81WWczMVdLdWpNYm5YYk9jMEVKeDVPd2pRNjhRSlpkTTRReHRsTHR0QVlFZGJDdWdhZEVUNnA2akpFZWVoekhjMUg3ZVJ5LXpBdjliVTRFUHptUUhmVWRneVRRcVoxYnhMWlRhaHRpNW9JV015OGtpbThzNVZLWGZyc3JKcWUwa1pIT3pPdXZmdEx3R0xlZkc0TEhB?oc=5",
+   "published": "2026-11-03T10:00:00+00:00"
+  },
+  {
+   "title": "Merck KGaA to exit CDMO business, divesting US sites to Lonza",
+   "source": "Endpoints News",
+   "url": "https://endpoints.news/merck-kgaa-to-exit-cdmo-business-divesting-us-sites-to-lonza/",
+   "published": "2026-11-03T09:54:12+00:00"
+  },
+  {
+   "title": "Cinven to buy menopause specialist Theramex in €2.6bn deal",
+   "source": "FT Markets",
+   "url": "https://www.ft.com/content/79867d48-6d4a-4e5e-ba62-105f7181f6b1?syn-25a6b1a6=1",
+   "published": "2026-11-03T09:45:05+00:00"
+  },
+  {
+   "title": "German car parts giant Schaeffler axes 3,500 jobs",
+   "source": "FT Companies",
+   "url": "https://www.ft.com/content/25ce0d50-e7b6-4b14-93bb-ee5da6f747c0?syn-25a6b1a6=1",
+   "published": "2026-11-03T09:37:42+00:00"
+  },
+  {
+   "title": "Opinion: What the 2024 electoral map reveals about America’s mortality divide",
+   "source": "STAT",
+   "url": "https://www.statnews.com/2026/11/03/electoral-map-reveals-red-state-blue-state-mortality-gap/?utm_campaign=rss",
+   "published": "2026-11-03T09:30:00+00:00"
+  },
+  {
+   "title": "Opinion: How meditation helped me become a better doctor overnight",
+   "source": "STAT",
+   "url": "https://www.statnews.com/2026/11/03/traumatic-eye-injuries-ophthalmologist-meditation-psychology/?utm_campaign=rss",
+   "published": "2026-11-03T09:30:00+00:00"
+  },
+  {
+   "title": "‘Three-parent IVF’ was supposed to prevent mitochondrial disease. Studies are raising doubts",
+   "source": "STAT",
+   "url": "https://www.statnews.com/2026/11/03/three-parent-ivf-safety-ethics-questions-mitochondrial-replacement-technology/?utm_campaign=rss",
+   "published": "2026-11-03T09:30:00+00:00"
+  },
+  {
+   "title": "European Chip Stocks Fall After Asia Selloff",
+   "source": "WSJ Markets",
+   "url": "https://www.wsj.com/finance/stocks/australian-banks-outperforming-on-rotation-away-from-ai-04a0c978?mod=rss_markets_main",
+   "published": "2026-11-03T09:30:00+00:00"
+  },
+  {
+   "title": "European TTF Gas Rebounds After Monday’s Drop",
+   "source": "WSJ Business",
+   "url": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-rebounds-after-mondays-drop-3ac50c0d?mod=pls_whats_news_us_business_f",
+   "published": "2026-11-03T09:23:00+00:00"
+  },
+  {
+   "title": "Bayer Shares Jump After Pharma Recovery Prompts Outlook Raise",
+   "source": "WSJ Business",
+   "url": "https://www.wsj.com/business/earnings/bayer-raises-earnings-outlook-on-pharma-recovery-2a480922?mod=pls_whats_news_us_business_f",
+   "published": "2026-11-03T09:15:00+00:00"
+  },
+  {
+   "title": "Philips Shares Rise After Stronger Profitability Revives Confidence",
+   "source": "WSJ Business",
+   "url": "https://www.wsj.com/business/earnings/philips-sales-rise-amid-product-recall-agreement-5a22fdad?mod=pls_whats_news_us_business_f",
+   "published": "2026-11-03T09:04:00+00:00"
+  },
+  {
+   "title": "An Election Day Special With Nate Silver",
+   "source": "Bloomberg Markets",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-03/an-election-day-special-with-nate-silver",
+   "published": "2026-11-03T09:00:21+00:00"
+  },
+  {
+   "title": "Odd Lots: An Election Day Special With Nate Silver (Podcast)",
+   "source": "Bloomberg Markets",
+   "url": "https://www.bloomberg.com/news/audio/2026-11-03/odd-lots-an-election-day-special-with-nate-silver-podcast",
+   "published": "2026-11-03T09:00:00+00:00"
+  },
+  {
+   "title": "Swiss Inflation Jumps to Highest Since 2023 as Energy Costs Climb",
+   "source": "WSJ Economy",
+   "url": "https://www.wsj.com/economy/global/swiss-inflation-jumps-to-highest-since-2023-on-imported-energy-costs-5da88199?mod=rss_socialeconomyfeed",
+   "published": "2026-11-03T08:49:00+00:00"
+  },
+  {
+   "title": "Are Freezers Being Hacked? Europe and the U.S. Military Investigate.",
+   "source": "NYT Business",
+   "url": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+   "published": "2026-11-03T08:45:19+00:00"
+  },
+  {
+   "title": "Virgin Media O2 to cut thousands of jobs",
+   "source": "FT Companies",
+   "url": "https://www.ft.com/content/4c0292f4-ca11-45f7-9da8-147fba2e0158",
+   "published": "2026-11-03T08:40:42+00:00"
+  },
+  {
+   "title": "Drax lands Brookfield backing for biomass-powered data centre",
+   "source": "FT Companies",
+   "url": "https://www.ft.com/content/0ba9fcaf-38f7-4921-8a1e-98ede639651e?syn-25a6b1a6=1",
+   "published": "2026-11-03T08:38:47+00:00"
+  },
+  {
+   "title": "Saudi Aramco Profit Surges, Offering Some Relief to Kingdom’s Finances",
+   "source": "WSJ Business",
+   "url": "https://www.wsj.com/business/energy-oil/saudi-aramco-profit-surges-offering-some-relief-to-kindgoms-finances-da309d56?mod=pls_whats_news_us_business_f",
+   "published": "2026-11-03T08:31:00+00:00"
+  },
+  {
+   "title": "1ST Biotherapeutics Raises USD 7.6M in Follow-On Funding for Cancer Drug Trials",
+   "source": "Wowtale",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ERHY4eFFRcW10Z2EzNHl6MWt0TmNHcjZ5REJNa3kwU2RRX2hRT3hhMm5iRjJPNWhjNmZwdzZfSXo4LWdKWmN2TW4tZEYwS081cGNN?oc=5",
+   "published": "2026-11-03T08:28:18+00:00"
+  },
+  {
+   "title": "Simandou Offsets Iron Ore Supply Cuts Elsewhere, Macquarie Says",
+   "source": "Bloomberg Markets",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-03/simandou-offsets-iron-ore-supply-cuts-elsewhere-macquarie-says",
+   "published": "2026-11-03T08:25:06+00:00"
+  },
+  {
+   "title": "Shell to sell Australian gas stake to Abu Dhabi’s XRG for $1.45bn",
+   "source": "FT Markets",
+   "url": "https://www.ft.com/content/28649f64-1c4e-4163-ba2b-8d28c6e37616?syn-25a6b1a6=1",
+   "published": "2026-11-03T08:22:06+00:00"
+  },
+  {
+   "title": "Wall Street Heavyweights Weigh the Risks to the AI Boom",
+   "source": "Bloomberg Markets",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-03/insight-with-haslinda-amin-11-3-2026-video",
+   "published": "2026-11-03T08:19:36+00:00"
+  },
+  {
+   "title": "Eyesan: Strong Interest in New Nigerian Oil Blocks",
+   "source": "Bloomberg Markets",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-03/eyesan-strong-interest-in-new-nigerian-oil-blocks-video",
+   "published": "2026-11-03T08:15:20+00:00"
+  },
+  {
+   "title": "US, Russia and China discuss meeting between Trump, Putin and Xi",
+   "source": "Financial Times",
+   "url": "https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1",
+   "published": "2026-11-03T08:10:41+00:00"
+  },
+  {
+   "title": "International Biotechnology Trust Reports 73.6% Annual Share Price Return as Net Assets Reach £374.6 Million",
+   "source": "Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1REZDN0UHU5TkY3aDRxNzVpQXJWTjFEZWNyUXNyMnJWLVNhUmlaaUZ0UlNEZ1FIcnVpT0l3azNzeWlFcTVlUUp3dDBhWXdKQXNkX21qUTBxcE4xN3BFQkRnaVp6d1NzbV9kamdXZjVfdEdzN184VzJ4bkZXVUZ5UHFUY1p5ZDZuWkp2WTRha01PY2dyZDhGOA?oc=5",
+   "published": "2026-11-03T07:51:00+00:00"
+  },
+  {
+   "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
+   "source": "CNBC Finance",
+   "url": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
+   "published": "2026-11-03T06:46:36+00:00"
+  },
+  {
+   "title": "US strikes Iran’s Qeshm Island on eve of election",
+   "source": "Financial Times",
+   "url": "https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1",
+   "published": "2026-11-03T06:44:35+00:00"
+  },
+  {
+   "title": "Australia raises rates to highest level since 2008 financial crisis",
+   "source": "FT Markets",
+   "url": "https://www.ft.com/content/60283bdf-e45d-4723-a68e-5a857a5b949e?syn-25a6b1a6=1",
+   "published": "2026-11-03T06:40:16+00:00"
+  },
+  {
+   "title": "A new threat to the New York-based stock exchanges",
+   "source": "FT Markets",
+   "url": "https://www.ft.com/content/21cb314f-47d3-4d83-ba8a-e70c018eb80c?syn-25a6b1a6=1",
+   "published": "2026-11-03T06:30:04+00:00"
+  },
+  {
+   "title": "FTAV’s further reading",
+   "source": "FT Alphaville",
+   "url": "https://www.ft.com/content/a77b925e-ddb1-4467-b27f-5cf75ae649b8",
+   "published": "2026-11-03T06:30:04+00:00"
+  },
+  {
+   "title": "China halts listings in bid to bolster struggling markets",
+   "source": "Financial Times",
+   "url": "https://www.ft.com/content/fec5981d-0c31-4f21-9a37-a1dd1526f530?syn-25a6b1a6=1",
+   "published": "2026-11-03T06:25:03+00:00"
+  },
+  {
+   "title": "Samsung Electronics was the largest net buyer of high-yield investors trading at Mirae Asset Securit..",
+   "source": "매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FWlRaQmhWU29FbS1fWVZKVFpwVm5Gc0tvVkI4Q1dRdW5UNVdMUkdzQ2h2bWxaZkJBUlFid1dfSWhiR0hsUWZtLVNfUm1uNUk?oc=5",
+   "published": "2026-11-03T06:20:35+00:00"
+  },
+  {
+   "title": "AI is making CDS great again",
+   "source": "FT Markets",
+   "url": "https://www.ft.com/content/67da8e84-17b3-4371-a1f8-2fbe02997491",
+   "published": "2026-11-03T06:00:04+00:00"
+  },
+  {
+   "title": "Argentina pitches the EU on food, energy and minerals ‘solutions’",
+   "source": "FT Companies",
+   "url": "https://www.ft.com/content/1a81ea73-6dc8-4d94-8cbf-f88891872bb0?syn-25a6b1a6=1",
+   "published": "2026-11-03T06:00:04+00:00"
+  },
+  {
+   "title": "VRTX Q3 deep dive: Pipeline, product launches, and Crinetics integration shape outlook",
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR3NWVFd3OHc3R05XTFh1dWdFSDRkREVLQ2E2eVBVVGhrT0FYMTNWTUd6elJua1BYZXZfbGczWHhGd3lnY2x6dDZrZ21MSHl2SEtjcW96d002ZTg5REp5enZwV1VhT1FfUlN2M2phVzBIZkx6ZDZRaXNvemRhR09ERXpWR3ViSVk5LW5tSGtZSENUV0QtVmk1cDRxUW40M3NCbFI3SkQ0SERxbkgyeVNYWFZhX0ZIeHowYTBzVUwxNXN0MUxhVXl5VFp3cnRRLVNqSmw1SnBfclM2bFNk?oc=5",
+   "published": "2026-11-03T05:31:00+00:00"
   },
   {
    "title": "Australia Central Bank Raises Interest Rates to Highest Level in 18 Years",
@@ -725,40 +1309,10 @@
    "published": "2026-11-03T05:25:00+00:00"
   },
   {
-   "title": "Barito Renewables Denies Inflating Volume, Price of Shares",
-   "source": "Bloomberg Markets",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-03/barito-renewables-denies-inflating-volume-price-of-shares",
-   "published": "2026-11-03T05:23:33+00:00"
-  },
-  {
-   "title": "CPPIB Warns of the Next Big Headache for Private Credit Investors",
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcmFoaEpJbEVjMFVYUGpjVHlGY0x0UXFyelVxM0ljU1NIeWo1SHBqSFdjSGdxOXpqVXQ0ODlGN0V6cHdKLVROZXJuX1BXUUZ2dEhjMkhham5zTGMxSGl4ZzZCdGdWWFRDMlcwd19wZUdUU2JIM3ZZN1NGclpRVzRnZ19HV3JTRUhEMG9UTHpwMURMR2d2RGJ2amljQU1TRkE3NmJCcnJuQ3l5ejRPX2tTenYzWDl6S1pYYWpBXzNxNjF1aUU?oc=5",
-   "published": "2026-11-03T05:19:53+00:00"
-  },
-  {
-   "title": "Icahn’s CVR to Buy Marathon Refineries For $4 Billion, WSJ Says",
-   "source": "Bloomberg Markets",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-03/icahn-s-cvr-to-buy-marathon-refineries-for-4-billion-wsj-says",
-   "published": "2026-11-03T05:18:41+00:00"
-  },
-  {
-   "title": "Anthropic says revenue surged 1100% ahead of IPO",
-   "source": "The Hindu",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU2szUFpBTGt3d0VfSmJsYXJZYUZlWU12TmNwNE9RbjMxREdKSXBQLTdRelYzZDAxS0VQWFBRQXpNai1pbEdfZ1ltbk1RN1RCS253N1ZPczBWTlFpcEl4UDhEZjM5cWxBa3JDRDE2X21KQWI5eDZrUUlmdFZtREcyaW5JNkt0d3k5MGVtVGNNUlBlaEN1ZGQ1QTVRX1M2alJZblE5Y0d4Y0VCcWxvTGMwbjlB0gG4AUFVX3lxTFA0NGI2VDRtOVA1dmVkbnhXYXdjX21kUU5YYWFMZXNFVzVPWnVEdVByR01xZ0VPaFZzR2pLeE81bll2R1k2RHFrdTE2bHlUTE1kWXRIUjdoVW5TMno2OGcxVHJpOVQ0aEhaSF9TekM2bE9JUkpCdjlJU1QzQVQ3eWZqZjdnOVB2WHdUZVFMZ1h4QUc1cDdYR05aV1hKOXVPZzBoekhrNDBMRnhfZXRTMHNYdmxKeThLUmY?oc=5",
-   "published": "2026-11-03T05:09:50+00:00"
-  },
-  {
-   "title": "Does Bigger Private Credit Backing Change The Bull Case For Man Group Stock?",
-   "source": "Simply Wall St",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcG9KamI2dUw3dVljeW94VV9kYnRKSHFzY3hNVDczT1piOFItM3ljR2lpYThUVFEtSHpwZ0ladkdLQlluVG5obXdCUmlsdXdRdHVJb1NMZ1RaSnpHUzJpWUZvR3JwZ0ttNF9maE5wb1FqUkVPNnZfc1hyVXRPVktmNWdsTkpJTWhDSWhFNHQ2Z3pZb2NhYlgyRlBHYlBaM1YwbXJSaGE2WnZZMW5VVTFLWXRyUEVLaURraGhwcXRfTVZRbXpWWnlQcS0yWk9ma0ZQUFJlYmhfN1JXX0VRUVVkVktn0gHiAUFVX3lxTE1wb0pqYjZ1TDd1WWN5b3hVX2RidEpIcXNjeE1UNzNPWmI4Ui0zeWNHaWlhOFRUUS1IenBnSVp2R0tCWW5Ubmhtd0JSaWx1d1F0dUlvU0xnVFpKekdTMmlZRm9HcnBnS200X2ZoTnBvUWpSRU82dl9zWHJVdE9WS2Y1Z2xOSklNaENJaEU0dDZnellvY2FiWDJGUEdiUFozVjBtclJoYTZadlkxblVVMUtZdHJQRUtpRGtoaHBxdF9NVlFtelZaeVBxLTJaT2ZrRlBQUmViaF83UldfRVFRVWRWS2c?oc=5",
-   "published": "2026-11-03T05:01:23+00:00"
-  },
-  {
-   "title": "Todd Boehly’s Hotel California",
-   "source": "FT Companies",
-   "url": "https://www.ft.com/content/6d1690d2-384a-4c89-95f9-2ca77a2555a4?syn-25a6b1a6=1",
-   "published": "2026-11-03T05:00:14+00:00"
+   "title": "Italy’s ‘exit tax’ plan spooks rich expats",
+   "source": "Financial Times",
+   "url": "https://www.ft.com/content/394938d3-f635-4af7-89f2-8a3c28ecf4ae?syn-25a6b1a6=1",
+   "published": "2026-11-03T05:00:13+00:00"
   },
   {
    "title": "Nvidia orders data centre clients to reduce China exposure",
@@ -767,21 +1321,9 @@
    "published": "2026-11-03T05:00:13+00:00"
   },
   {
-   "title": "The AI problem we feared is not the AI problem we got",
-   "source": "Financial Times",
-   "url": "https://www.ft.com/content/cf6fd711-cfa5-49f9-9958-3aec32369286?syn-25a6b1a6=1",
-   "published": "2026-11-03T05:00:13+00:00"
-  },
-  {
-   "title": "North Korean hackers expected to take months to launder stolen Binance billions",
-   "source": "Financial Times",
+   "title": "North Korean hackers expected to take months to launder Binance billions",
+   "source": "FT Markets",
    "url": "https://www.ft.com/content/a6212e33-2175-4957-91d1-8f8f6bc3918b?syn-25a6b1a6=1",
-   "published": "2026-11-03T05:00:13+00:00"
-  },
-  {
-   "title": "Italy’s ‘exit tax’ plan spooks rich expats",
-   "source": "Financial Times",
-   "url": "https://www.ft.com/content/394938d3-f635-4af7-89f2-8a3c28ecf4ae?syn-25a6b1a6=1",
    "published": "2026-11-03T05:00:13+00:00"
   },
   {
@@ -797,136 +1339,16 @@
    "published": "2026-11-03T05:00:13+00:00"
   },
   {
-   "title": "The power problems holding back America’s AI ambitions",
-   "source": "FT Companies",
-   "url": "https://www.ft.com/content/20d5599f-8955-4184-a2a0-ac1296e400f3?syn-25a6b1a6=1",
-   "published": "2026-11-03T05:00:06+00:00"
-  },
-  {
-   "title": "One battle after another: Trump’s turbulent 21 months",
+   "title": "What 21 months of Trump have done to America",
    "source": "Financial Times",
    "url": "https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1",
    "published": "2026-11-03T05:00:05+00:00"
   },
   {
-   "title": "The rulemaking ‘farce’ that has banks and insurers at loggerheads",
-   "source": "FT Markets",
-   "url": "https://www.ft.com/content/ab54dad5-f9d5-4e6c-b384-500410eb2082?syn-25a6b1a6=1",
-   "published": "2026-11-03T05:00:05+00:00"
-  },
-  {
-   "title": "Lula’s digital triumph in Brazil election offers global model for the left",
-   "source": "FT Companies",
-   "url": "https://www.ft.com/content/4e777c1f-d0fa-40ae-97b3-a131a4d0f632?syn-25a6b1a6=1",
-   "published": "2026-11-03T05:00:05+00:00"
-  },
-  {
    "title": "Britain’s biggest container port rises by the Thames",
-   "source": "FT Companies",
+   "source": "FT Global Economy",
    "url": "https://www.ft.com/content/dcc01116-e63c-44b0-ad3d-311f5e2f7367?syn-25a6b1a6=1",
    "published": "2026-11-03T05:00:05+00:00"
-  },
-  {
-   "title": "Judgement day for Trump’s Republican Party",
-   "source": "FT Markets",
-   "url": "https://www.ft.com/content/7906251c-c903-4e4d-88db-cfe104271b0a?syn-25a6b1a6=1",
-   "published": "2026-11-03T05:00:00+00:00"
-  },
-  {
-   "title": "Shoprite CEO Pay Plan Meets Resistance From Proxy Advisers",
-   "source": "Bloomberg Markets",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-03/shoprite-ceo-pay-plan-meets-resistance-from-proxy-advisers",
-   "published": "2026-11-03T05:00:00+00:00"
-  },
-  {
-   "title": "Family demands answers over intern’s death at European Investment Bank",
-   "source": "Follow the Money - Platform for investigative journalism",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZzJfUnhQT0tZaXo0d0hSbVoybS1aZ2xFZzdBV1g5cTczR3cxN25DV0JTZXhwTVlwNllsSy04QXhrblNucnIyWmlJelpuUHY4eGxlb0cyUUZDcHZmZXNMN3BQbEtuQjdRU2F0VVhPQXY1Q19GSGNab0JCMVd4ZXVEaXV0bE1yYzBuSDViRzRXdUtxbURGUjBucFpn?oc=5",
-   "published": "2026-11-03T05:00:00+00:00"
-  },
-  {
-   "title": "China Soybean Oil Stocks Hit Record as Crushing Outpaces Demand",
-   "source": "Bloomberg Markets",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-03/china-soybean-oil-stocks-hit-record-as-crushing-outpaces-demand",
-   "published": "2026-11-03T04:59:27+00:00"
-  },
-  {
-   "title": "Carl Icahn’s CVR Energy Near Over $4 Billion Deal for Marathon Refineries",
-   "source": "WSJ Markets",
-   "url": "https://www.wsj.com/business/deals/carl-icahns-cvr-energy-near-over-4-billion-deal-for-marathon-refineries-e8487579?mod=rss_markets_main",
-   "published": "2026-11-03T04:59:00+00:00"
-  },
-  {
-   "title": "Middle East Oil Markets Flash Signs of Abundance as Flows Rise",
-   "source": "Bloomberg Markets",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-03/middle-east-oil-markets-flash-signs-of-abundance-as-flows-rise",
-   "published": "2026-11-03T04:45:41+00:00"
-  },
-  {
-   "title": "China’s Forward Earnings Outlook Continues to Soften",
-   "source": "WSJ Markets",
-   "url": "https://www.wsj.com/finance/stocks/australian-banks-outperforming-on-rotation-away-from-ai-04a0c978?mod=rss_markets_main",
-   "published": "2026-11-03T04:40:00+00:00"
-  },
-  {
-   "title": "Australia raises rates to highest level since 2008 financial crisis",
-   "source": "FT Markets",
-   "url": "https://www.ft.com/content/60283bdf-e45d-4723-a68e-5a857a5b949e?syn-25a6b1a6=1",
-   "published": "2026-11-03T04:37:42+00:00"
-  },
-  {
-   "title": "Coal India Said to Plan $1 Billion MCL IPO as Soon as This Month",
-   "source": "Bloomberg Markets",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-03/coal-india-said-to-plan-1-billion-mcl-ipo-as-soon-as-this-month",
-   "published": "2026-11-03T04:34:22+00:00"
-  },
-  {
-   "title": "China Talks Up Market Openness While Steering Stocks and Yuan",
-   "source": "Bloomberg Markets",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-03/china-talks-up-market-openness-while-steering-stocks-and-yuan",
-   "published": "2026-11-03T04:32:48+00:00"
-  },
-  {
-   "title": "US strikes Iran’s Qeshm Island on eve of election",
-   "source": "Financial Times",
-   "url": "https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1",
-   "published": "2026-11-03T04:11:51+00:00"
-  },
-  {
-   "title": "Bangladesh private sector credit growth stays under 5% as weak investment curbs loan demand",
-   "source": "Traders Union",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZDBjcE5qLVZscnRzcWRiR0hpUGFqYXlBNGVPdDlINXkwR25pZk1yNW94ZC1DZ2dmUWpXX3Q0QW14eWpJM2JnQzkxMlBWVk50MUFaMjF1Q2luZGZpRTJCckdPZDNKazFFRnVnTEh5YzctbGNvTl9MUUtlcjZYVkNmMHZlVTc3MXM1dHFzd043M3Z2ZDJVazluZHJpbw?oc=5",
-   "published": "2026-11-03T04:10:25+00:00"
-  },
-  {
-   "title": "Neo raises ₹6,200 crore for second credit fund; targets 35-40 investments",
-   "source": "Fortune India",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdXNPNmtEMnRrVVZPWnVWMVBjNDhQWGFTRDJnOE92VGdva1JUbFh6MFROV2luQ2lsUEE2clRUSDk1bVlLRG1pRUJyOTJTT0F3WHFtY1JVZk94OUloZWhrZFE1N1BKYmY3aUhPbm1HakRfdEktODFtYXFFODZWcUlDRXlxRnFpMnRWMlFhdDVyTVhpT0R1bnRUY3E1TTZGMmozQ2tCVHIwNkRuT2JGN2ZDdXl4Z29fV2xpdS15X9IBygFBVV95cUxNbkx3MW9OZ2tqLXZwek5ZS0lnT1FEYy1fQ1FBc2tmNlRvb1ZIX3NCX0RsLVpZSnZmOVZILXh1LU5JY09vUnRwYTZpa2lUeDRwVlJONDFZOEtpdkY0Y2pkcUV1UnhpUXp5OF9rMTNWMFlya3JRWXBJQUxNNU1Nay1lMDFDckZQWlRNMzZlNldqbWEtc0RRMDNWOU1NcFNFYUpycHRJRUt3dFFzbTV6bjg3bHJTZTd1U2xwdkhOWDR3eVp2QTZpV0JWV2tB?oc=5",
-   "published": "2026-11-03T04:07:33+00:00"
-  },
-  {
-   "title": "India to Consider Equity Gains Tax Concerns, Sitharaman Says",
-   "source": "Bloomberg Markets",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-03/india-to-consider-equity-gains-tax-concerns-sitharaman-says",
-   "published": "2026-11-03T04:05:56+00:00"
-  },
-  {
-   "title": "Goldman’s Solomon Sees ‘Very Robust’ Demand for AI Deals",
-   "source": "Bloomberg Markets",
-   "url": "https://www.bloomberg.com/news/videos/2026-11-03/goldman-s-solomon-sees-very-robust-demand-for-ai-deals-video",
-   "published": "2026-11-03T04:01:49+00:00"
-  },
-  {
-   "title": "Abu Dhabi SWFs back new credit, infra platforms",
-   "source": "Alternatives Watch",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUFNmUS1VWEVFc2dPdzVneFVBa0tYR2Q5MURPb1BZUm9nNW9aZGVTcWhJOVJySTZINkNzRVloOUUwcWJkWWNvdXhaeGVUQXpFSzhKdTc0RTUybV80RUZrbXFpX0RGMlp6NzRZSGtLUWFqbXJnd25zUkdaanpsVkNHSFJ6anRWbjNXLUJjMTgzRDdrakgwcjgw?oc=5",
-   "published": "2026-11-03T03:55:05+00:00"
-  },
-  {
-   "title": "U.S. Midterms Likely to Result in Different Responses Among Asian Currencies",
-   "source": "WSJ Markets",
-   "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-midterm-elections-2352f046?mod=rss_markets_main",
-   "published": "2026-11-03T03:37:00+00:00"
   },
   {
    "title": "Stonepeak’s Castrol deal, Brookfield’s $5.2bn REIT take-private lead a day of closings",
@@ -935,22 +1357,10 @@
    "published": "2026-11-03T03:29:14+00:00"
   },
   {
-   "title": "Rio Tinto creates ‘kill zone’ to halt cane toad invasion",
-   "source": "FT Companies",
-   "url": "https://www.ft.com/content/f43d4e2a-7f11-4d28-a069-d4774bfbd229?syn-25a6b1a6=1",
-   "published": "2026-11-03T03:01:43+00:00"
-  },
-  {
    "title": "The Nation’s Oldest Road Racetrack Starts a Big, Costly Face-Lift",
    "source": "NYT Business",
    "url": "https://www.nytimes.com/2026/11/02/business/willow-springs-racetrack-country-club.html",
    "published": "2026-11-03T02:47:39+00:00"
-  },
-  {
-   "title": "Samsung Electronics was the largest net buyer of high-yield investors trading at Mirae Asset Securit..",
-   "source": "매일경제",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wTW1JcjM4M082cjNxVWY0Ml9FOEhRM1NHQ1dKQ1BWQlB4Y1hnRTl5WGNRVmEzREd5TVRHS1J1THc3S29IWnY0ME5IbE5xV28?oc=5",
-   "published": "2026-11-03T02:34:39+00:00"
   },
   {
    "title": "Singapore's NSV raises $53M for inaugural biotech fund, targeting US, Asia",
@@ -983,30 +1393,6 @@
    "published": "2026-11-03T01:34:39+00:00"
   },
   {
-   "title": "Credit Jitters Grow: Which Buffers Protect Qualitas (ASX:QAL)?",
-   "source": "Kalkine Media",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGZOdVZzZjVpMXRVN2xCakt3QXNORW5zdUNkTHMzVFZLTWszekRrX3hIdXJ0RXhpWXZVdFNmU0YtT1h6MWlrblpxcDBFalpYT1BDNDBNR2hnSmU2aDFrWEdOdTgxMGxRV2NUQkRMelluSmc0X0lRM2wtVV9aelNqZGVabHpxWTItTjFzdmM1V2daOGM4cEJhYWpHaWNzTl9PX1A0?oc=5",
-   "published": "2026-11-03T01:29:00+00:00"
-  },
-  {
-   "title": "The Final Seconds Before a Learjet Plunged Into a Florida Street",
-   "source": "WSJ Business",
-   "url": "https://www.wsj.com/us-news/the-final-seconds-before-a-learjet-plunged-into-a-florida-street-315b0c97?mod=pls_whats_news_us_business_f",
-   "published": "2026-11-03T01:18:00+00:00"
-  },
-  {
-   "title": "Apple warns ‘unprecedented’ memory chip costs will hit margins",
-   "source": "Financial Times",
-   "url": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1",
-   "published": "2026-11-03T01:17:37+00:00"
-  },
-  {
-   "title": "Remara co-founder claims false fraud allegations used to push him out",
-   "source": "AFR",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNTlTdlBXZ2Rlb3lHYXN6enlUaENqLUlTaThEY3FaS3lXVVJQaHhCM3gyekFDYjJEZHU4MDloMTkzY1V3SlVDVFNYUGRCbmp5eVd1bWx3bTFBOEFfTW1GWkNYc3lHaVRUc011dzdCaUtXLVJVblZERVZNdmlXZnVZbDU1N3pYZTJpNWRkSHB1czZDeTc5TTlfeUR1MUZxOWIyYzNQeXBjdEJGeVpyWlRnRjNXZDFRYXRkQjB3NHcxWDdITERjRkxkOEVZNDAxa00?oc=5",
-   "published": "2026-11-03T01:00:00+00:00"
-  },
-  {
    "title": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
    "source": "MarketWatch",
    "url": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
@@ -1017,12 +1403,6 @@
    "source": "MarketWatch",
    "url": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
    "published": "2026-11-03T00:52:00+00:00"
-  },
-  {
-   "title": "Ear infection biotech and mining AI take top honours at WA innovation awards",
-   "source": "Startup Daily",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSDAxUjVQOVNpWEFfb1l2dTEtaUVLTVMzZGVLYlNhX2kzRmN0NjVoR3F4Q2dZQnZ1ZF9kTi1RQzVENlRrZHlKU1Zzd2hMMGNZVlVMV1JOQjJQWDVJQm9aMTZnaTdBNy1sX3U3OXo2QXZZLWF6MVZTUnVEbHBwdlJvQUNGUDdEaDBuZjNjNTJST09jOGI0TWhHWDF1MmdTckprbTFPUnVwNFItWkRSX2diNWxpeXowMi03Z0Vv?oc=5",
-   "published": "2026-11-03T00:45:55+00:00"
   },
   {
    "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
@@ -1037,34 +1417,10 @@
    "published": "2026-11-03T00:27:42+00:00"
   },
   {
-   "title": "Gold Edges Higher Amid Better Investor Sentiment",
-   "source": "WSJ Markets",
-   "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-better-investor-sentiment-5fe76e34?mod=rss_markets_main",
-   "published": "2026-11-03T00:20:00+00:00"
-  },
-  {
-   "title": "Oil Falls as Market Tracks Mideast Developments",
-   "source": "WSJ Markets",
-   "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-market-tracks-mideast-developments-b95ca17a?mod=rss_markets_main",
-   "published": "2026-11-03T00:03:00+00:00"
-  },
-  {
    "title": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
    "source": "MarketWatch",
    "url": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
    "published": "2026-11-03T00:03:00+00:00"
-  },
-  {
-   "title": "Palantir Profit Soars as U.S. Commercial Revenue Overtakes Government Business",
-   "source": "WSJ Business",
-   "url": "https://www.wsj.com/business/earnings/palantir-lifts-outlook-as-u-s-commercial-business-overtakes-government-business-16eb693f?mod=pls_whats_news_us_business_f",
-   "published": "2026-11-02T23:59:00+00:00"
-  },
-  {
-   "title": "Hedge Fund Elliott Warns of FOGO: Fear of Getting Obliterated in the Market",
-   "source": "WSJ Markets",
-   "url": "https://www.wsj.com/finance/investing/hedge-fund-elliott-warns-of-fogo-fear-of-getting-obliterated-in-the-market-a2cc7027?mod=rss_markets_main",
-   "published": "2026-11-02T23:54:00+00:00"
   },
   {
    "title": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
@@ -1073,22 +1429,10 @@
    "published": "2026-11-02T23:39:00+00:00"
   },
   {
-   "title": "Savings Rates Forecast: How High Will Rates Go In 2026?",
-   "source": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iVWVweFNySHFjY3lqTDl6aDdaRWtYeHZvcVI1cW5XblJrcTc3cXdXVmpaVW00VGlEMmZyWTlJYWphc05iTHNPSm5IMFRwd3M0YVFCWXBFcEFQdnU2UXJTZzVUNS0wd2pNbjN1SjdGTmVXMGpPRlVZRHlB?oc=5",
-   "published": "2026-11-02T23:37:00+00:00"
-  },
-  {
-   "title": "South Korea Inflation Remains Above Target at 2.8% in October",
+   "title": "South Korea Inflation Remained Above Target in October",
    "source": "WSJ Economy",
    "url": "https://www.wsj.com/economy/south-korea-inflation-eases-to-2-8-in-october-still-above-target-3d4069db?mod=rss_socialeconomyfeed",
    "published": "2026-11-02T23:34:00+00:00"
-  },
-  {
-   "title": "Apple’s Growth Machine Is Slowing. High Prices Might Not Save It.",
-   "source": "WSJ Markets",
-   "url": "https://www.wsj.com/tech/apple-beats-wall-street-expectations-with-boost-from-higher-prices-36749418?mod=rss_markets_main",
-   "published": "2026-11-02T23:16:00+00:00"
   },
   {
    "title": "William Nordhaus Has Died. Nobelist Influenced Climate Policy.",
@@ -1115,52 +1459,10 @@
    "published": "2026-11-02T23:10:21+00:00"
   },
   {
-   "title": "Opinion | The Ethics Rules Behind Weil Gotshal’s ‘Partner Run’",
-   "source": "WSJ Markets",
-   "url": "https://www.wsj.com/opinion/the-ethics-rules-behind-weil-gotshals-partner-run-75193b12?mod=rss_markets_main",
-   "published": "2026-11-02T23:06:00+00:00"
-  },
-  {
-   "title": "U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine",
-   "source": "WSJ Business",
-   "url": "https://www.wsj.com/world/europe/u-s-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-0ca62dc7?mod=pls_whats_news_us_business_f",
-   "published": "2026-11-02T22:44:00+00:00"
-  },
-  {
-   "title": "Opinion | Trump’s Merkel Strategy on Russia",
-   "source": "WSJ Business",
-   "url": "https://www.wsj.com/opinion/europe-russian-gas-lng-trump-administration-angela-merkel-nord-stream-79ddd89e?mod=pls_whats_news_us_business_f",
-   "published": "2026-11-02T22:43:00+00:00"
-  },
-  {
-   "title": "Opinion | Abigail Spanberger’s Power Play",
-   "source": "WSJ Business",
-   "url": "https://www.wsj.com/opinion/abigail-spanberger-dominion-nextera-energy-virginia-5f11925d?mod=pls_whats_news_us_business_f",
-   "published": "2026-11-02T22:41:00+00:00"
-  },
-  {
-   "title": "WSJ Dollar Index Falls 0.08% to 97.00",
-   "source": "WSJ Markets",
-   "url": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-as-investors-await-u-s-economic-data-c0156350?mod=rss_markets_main",
-   "published": "2026-11-02T22:35:00+00:00"
-  },
-  {
-   "title": "October Wrap: Leveraged loan prices fall as sell-off broadens beyond software",
-   "source": "PitchBook",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR3dWSDZlNXRLYm9SUWhrZ1FLdTJPOUpCUXhVbUlmYmtsUm1jZDFTeG9MNkt1cGlGY3Q5c0xrUUdzQnhjbnJVNjEySlBOeFIyRm0teVdxWnBpa3VaVFloeW5xOVlKOGNtQ0JOcnMzMUpIVUI5d3FVVzlqVzYxRldPVUJzZUFjVlEyaEJNUjFFXzhHYnRZdTV4RVg2R3Z6S1l4cUVJQU1HaVBRd05Fb3JjdURR?oc=5",
-   "published": "2026-11-02T22:32:38+00:00"
-  },
-  {
-   "title": "Energy & Utilities Roundup: Market Talk",
-   "source": "WSJ Business",
-   "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-857a5d99?mod=pls_whats_news_us_business_f",
-   "published": "2026-11-02T22:26:00+00:00"
-  },
-  {
-   "title": "America’s Multi-Trillion-Dollar AI Buildout Is on the Ballot—and Wall Street Is Watching",
-   "source": "WSJ Markets",
-   "url": "https://www.wsj.com/finance/stocks/the-risks-state-and-local-elections-pose-for-wall-street-and-the-ai-trade-3bc5219d?mod=rss_markets_main",
-   "published": "2026-11-02T22:24:00+00:00"
+   "title": "‘A massive piece of pool’: Trump talks algae and grass in final midterm push",
+   "source": "Financial Times",
+   "url": "https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f?syn-25a6b1a6=1",
+   "published": "2026-11-02T22:45:26+00:00"
   },
   {
    "title": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned",
@@ -1169,88 +1471,10 @@
    "published": "2026-11-02T22:03:00+00:00"
   },
   {
-   "title": "Wall Street’s most hated stocks are faring far better than its favorites",
-   "source": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
-   "published": "2026-11-02T21:45:00+00:00"
-  },
-  {
-   "title": "After Tech Sell-Off, Investors Brace for More Market Volatility",
-   "source": "NYT Business",
-   "url": "https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html",
-   "published": "2026-11-02T21:36:41+00:00"
-  },
-  {
-   "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
-   "source": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-   "published": "2026-11-02T21:35:00+00:00"
-  },
-  {
-   "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
-   "source": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-   "published": "2026-11-02T21:30:00+00:00"
-  },
-  {
-   "title": "The stock market has gone nowhere for the past 5 months. It’s now looking like a bargain.",
-   "source": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories",
-   "published": "2026-11-02T21:29:00+00:00"
-  },
-  {
-   "title": "Are Freezers Being Hacked? Europe and the U.S. Military Are Investigating.",
-   "source": "NYT Business",
-   "url": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
-   "published": "2026-11-02T21:28:04+00:00"
-  },
-  {
-   "title": "Up in the Clouds With the Pope, It’s Still Commercial",
-   "source": "NYT Business",
-   "url": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
-   "published": "2026-11-02T21:26:15+00:00"
-  },
-  {
    "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
    "source": "CNBC Finance",
    "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
    "published": "2026-11-02T21:13:43+00:00"
-  },
-  {
-   "title": "Oil tumbles on hopes for US-Iran talks",
-   "source": "FT Markets",
-   "url": "https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3?syn-25a6b1a6=1",
-   "published": "2026-11-02T21:13:04+00:00"
-  },
-  {
-   "title": "Disneyland’s Autopia Ride Will Switch to Electric Vehicles",
-   "source": "NYT Business",
-   "url": "https://www.nytimes.com/2026/11/02/climate/disneyland-autopia-gas-electric.html",
-   "published": "2026-11-02T21:11:41+00:00"
-  },
-  {
-   "title": "Palantir earnings reveal a major AI turning point",
-   "source": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories",
-   "published": "2026-11-02T21:09:00+00:00"
-  },
-  {
-   "title": "Martha Stewart Apologizes for Homeless Halloween Costume",
-   "source": "NYT Business",
-   "url": "https://www.nytimes.com/2026/11/02/style/martha-stewart-homeless-halloween-costume-apology.html",
-   "published": "2026-11-02T20:54:59+00:00"
-  },
-  {
-   "title": "VanEck Vectors Fallen Angel High Yield Bond ETF declares monthly distribution of $0.1688",
-   "source": "TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVE9pMW45RlgwXzdKRENYbGlIVWl1T2NjNlFwLTJhQkcwcXotWjJub1JJSDZ5RXhCbzF6S2RsSXRhZVgyWVZyc1lYQWZuMWdmLTdLVTJidkhvOHVmQk80UVU5dHZjVkZ2SzBlN2p0MHhwcjVPcHpZX2NvMmVZUkY5dHU5QV95OGtoZ0E0bWF6QWFIeFVDbGM5N1hfQ3FKdERsR2ZVaXozeFZmRFdZZ09FU2cwNG1YYy0tcDJFQ3M0YnZfcTFybVRwblU4cXdhWVJfNHRwcFRDeWZmRENDUDNWY2tVeVRzcUt4TTdMRGNtMm12Q29kRUxKYlFDZkZFQQ?oc=5",
-   "published": "2026-11-02T20:49:00+00:00"
-  },
-  {
-   "title": "3 High-Yield Dividend Stocks to Buy and Hold for a Decade of Income",
-   "source": "The Motley Fool Canada",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSTNEWTlEYWVFRkpwSEV2Q3Zta0M1NEFhek5pZ3YtOXZWMldoWVJsX19HQ21WZV9SbGtEaU5EenNySEQtVjJlRTIyN3R3eW9mWXh4WTBXR3VkXzUyQ0V0azRMSk1STGl5OXMyc3VWem90cVZ2TC1ldkh0MjNuYThiZ09GcDJ6eWJHc05JZHQ5OVg4eFFOdjY1QnY0ZHJpZnNJ?oc=5",
-   "published": "2026-11-02T20:45:00+00:00"
   },
   {
    "title": "Washington state resident dies from bird flu following exposure to infected cattle",
@@ -1263,18 +1487,6 @@
    "source": "FT Global Economy",
    "url": "https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85?syn-25a6b1a6=1",
    "published": "2026-11-02T20:38:05+00:00"
-  },
-  {
-   "title": "US moves to strip South Africa and Rwanda of duty-free trade access",
-   "source": "FT Global Economy",
-   "url": "https://www.ft.com/content/fae48a2f-7fb1-4b49-a261-0449fc335427?syn-25a6b1a6=1",
-   "published": "2026-11-02T20:34:01+00:00"
-  },
-  {
-   "title": "Key races that will decide the US midterm elections",
-   "source": "Financial Times",
-   "url": "https://www.ft.com/content/1626b14d-524f-4d2a-94d1-860ae4a68692?syn-25a6b1a6=1",
-   "published": "2026-11-02T20:12:26+00:00"
   },
   {
    "title": "Trump’s Tariffs Are On the Ballot in Michigan",
@@ -1293,18 +1505,6 @@
    "source": "Healthcare Dive",
    "url": "https://www.healthcaredive.com/news/ai-vendors-health-systems-join-physicians-in-liability-for-clinical-ai/873492/",
    "published": "2026-11-02T19:50:39+00:00"
-  },
-  {
-   "title": "iShares High Yield Active ETF Sets November Payout at $0.2929 Per Share",
-   "source": "TOKENPOST",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqbGVzdlhVa1phQlMwOUFQMnR4STJIcmRyQlZJbWpXaVdYdzdaeWMwT2tIS1VYQUhwQ3NRaTBETVU4MUZZS2RWRHd6cVFsVEF4TnlLS2tRUjZPUQ?oc=5",
-   "published": "2026-11-02T19:48:05+00:00"
-  },
-  {
-   "title": "From Actio's ashes: Setara launches with $90m to chase rare disease genetics at scale",
-   "source": "BioXconomy",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTHVnZk0wZ1ppWURPNVhfY3MzTnl4MXJPRlRJRkRfZTh1UFkydjl3MEZQaTdvWlpKcmJHWlRPZlpfbjYtZFZGNEo5c0t0WU9HYk1NRERRalY3Sm9JUnk0V3lqdWZabF80Q1lEaGkxTXhvQkZnRDJ2VF91VFRlTUpLcGNPYmNZU3ZpOF9fZW56TlZrcWFjYldLTXBqeFRSR0dwUUV5MjhzdTM5Zi16VG9lUGVDYlFCZEdmdS1pUW13?oc=5",
-   "published": "2026-11-02T19:44:10+00:00"
   },
   {
    "title": "AbbVie, Brise disclose deal for two preclinical migraine meds",
@@ -1337,18 +1537,6 @@
    "published": "2026-11-02T18:07:53+00:00"
   },
   {
-   "title": "Petrol prices set to hit record high under Trump on eve of US elections",
-   "source": "FT Markets",
-   "url": "https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa?syn-25a6b1a6=1",
-   "published": "2026-11-02T17:46:33+00:00"
-  },
-  {
-   "title": "U.S. leveraged loan distress rise, foreshadowing potentially higher defaults",
-   "source": "Pensions & Investments",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVjYmhucnJHMV9RMG5ocS1RSzZBSDRZZjRKQ1NXRmk5cDJQU3Q0R1RncFBxNmRTTnFERHh5UURsYTN4MGJmYXhHX0Z3TzlfeUhBTzhuREt3NXNZUGJ1Nmc2RzRHUGJZNFIzd2k0OUtVNkxEdlBBSXFYQ3hlTzNfT1ltTS1xX0UwR1hzWnFKN2ZoRkEwcXc4?oc=5",
-   "published": "2026-11-02T17:22:00+00:00"
-  },
-  {
    "title": "Mortgage business expansion killed Tioga-Franklin: FDIC OIG",
    "source": "Banking Dive",
    "url": "https://www.bankingdive.com/news/mortgage-business-expansion-killed-tioga-franklin-fdic-oig/873470/",
@@ -1361,22 +1549,10 @@
    "published": "2026-11-02T17:20:17+00:00"
   },
   {
-   "title": "Biotech Stock INOVIO (NASDAQ: INO) Leads Nasdaq Gainers Monday November 2nd",
-   "source": "Investorideas.com",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObXJIeUo1cnpVTldzVmVQc3F3eHNQSjlRN0hldjE2M1lvajVRemRvYWRDNTEyVnBMVHhLOWpEZ0JxX052M3RRck1rQjRqRXZIMkdGdFVkVDBxYkU1Y2tEekJ6SmhtTzZqZWhTazg3RXlOeFg4YldOcGlFcE42cTJGbDJDMzFRWHdyVF81ZXFRdDZMR1ZCMVRmRm9HMlliMFplVkhqYkxyN1RqVFRzOVdUcUNlZ3QtemhOcFZjaUs3VkFUQnBmZGppLXN3?oc=5",
-   "published": "2026-11-02T17:14:00+00:00"
-  },
-  {
    "title": "Karyopharm, deep in debt, to sell itself in bankruptcy",
    "source": "BioPharma Dive",
    "url": "https://www.biopharmadive.com/news/karyopharm-bankruptcy-chapter-11-auction-ayrmid-gamida-cell/873415/",
    "published": "2026-11-02T17:07:00+00:00"
-  },
-  {
-   "title": "The inconvenient truths of Nixon’s legacy",
-   "source": "FT Markets",
-   "url": "https://www.ft.com/content/8df5f8b2-b08e-4b1b-9842-a95e55b2f93a?syn-25a6b1a6=1",
-   "published": "2026-11-02T17:06:19+00:00"
   },
   {
    "title": "STAT+: The health care affordability midterms, and billing urgent care as ER",
@@ -1389,12 +1565,6 @@
    "source": "CNBC Investing",
    "url": "https://www.cnbc.com/2026/11/02/this-cybersecurity-stock-just-had-a-huge-pullback-how-to-buy-the-dip-like-a-pro.html",
    "published": "2026-11-02T17:02:19+00:00"
-  },
-  {
-   "title": "Alstom shares tumble 26% after train maker cuts profit forecast",
-   "source": "FT Markets",
-   "url": "https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362?syn-25a6b1a6=1",
-   "published": "2026-11-02T16:55:48+00:00"
   },
   {
    "title": "STAT+: Psilocybin’s lasting benefits prove elusive in mice",
@@ -1415,7 +1585,7 @@
    "published": "2026-11-02T16:13:46+00:00"
   },
   {
-   "title": "UniQure gets review date and adcomm; Inovia's stock surges after approval",
+   "title": "UniQure gets review date and adcomm; Inovio's stock surges after approval",
    "source": "Endpoints News",
    "url": "https://endpoints.news/uniqure-gets-review-date-and-adcomm-inovias-stock-surges-after-approval/",
    "published": "2026-11-02T16:10:20+00:00"
@@ -1445,12 +1615,6 @@
    "published": "2026-11-02T15:25:23+00:00"
   },
   {
-   "title": "Canada Manufacturing Sector PMI Slips Into Contraction Territory",
-   "source": "WSJ Economy",
-   "url": "https://www.wsj.com/economy/canada-manufacturing-sector-pmi-slips-into-contraction-territory-525c459c?mod=rss_socialeconomyfeed",
-   "published": "2026-11-02T15:17:00+00:00"
-  },
-  {
    "title": "FDA puts Bright Minds drug on partial hold, stock tanks",
    "source": "Endpoints News",
    "url": "https://endpoints.news/fda-puts-bright-minds-drug-on-partial-hold-stock-tanks/",
@@ -1469,12 +1633,6 @@
    "published": "2026-11-02T14:34:00+00:00"
   },
   {
-   "title": "Mycofeast Acquires New Zealand's Daisy Lab to Scale Precision-Fermented Lactoferrin",
-   "source": "MycoStories",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTGRxVllpSjZnMnNmU0RmRHVwb0dLZ0RQT3gzUnJfUFRyUFFSOS1yaEtvNzZyb0xZS0NnR1VGOHAxLVdNQ3ZHd1M5Q1VLZ0hzY2hLT3RSVnVwekptTi1pTTdMakw4OER6aFVjalk5T1lQVmFPbDU3cmQ3Sm9fT3J3T3Z3OE5kRjZJTUs2OGZjRjEtSFZtaVg4SkZhWlRhVG8wYTQxOFZDQk96NUxsNHJPUks0SEltMzQ?oc=5",
-   "published": "2026-11-02T14:29:48+00:00"
-  },
-  {
    "title": "STAT+: Pharmalittle: We’re reading about payments to Russian middlemen, a possible Dupixent rival, and more",
    "source": "STAT",
    "url": "https://www.statnews.com/pharmalot/2026/11/02/drugmaker-payments-to-russian-middlemen-possible-dupixent-rival/?utm_campaign=rss",
@@ -1485,18 +1643,6 @@
    "source": "Healthcare Dive",
    "url": "https://www.healthcaredive.com/news/medicare-part-d-premiums-skyrocket-2027-kff/873421/",
    "published": "2026-11-02T14:19:15+00:00"
-  },
-  {
-   "title": "Kalgene’s Series A marks start of Lumira Capital’s next chapter",
-   "source": "PEI Private Equity",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbkNXOHdELWVoakVfWmdJRTMwa1JCcndwMUc0NHlaWmxFeGFXWDlwd2V0SHFXYnZHZnlScklQTjVSQ3dMMFY1QUIzWXlnWGhsaTd5REhwUlFfSzJaU1VLLWRyTV9BUG41SExJay1WN1ZfcWhUSHhaWG14aHg1ekh2cTZYS3hweW5sOFlBelhJd3JFMG95RUhpNGQ5MFoyWC1XS3dRdlBvWEhsUjQ?oc=5",
-   "published": "2026-11-02T14:07:04+00:00"
-  },
-  {
-   "title": "The midterms and the world",
-   "source": "FT Global Economy",
-   "url": "https://www.ft.com/content/15d1bd16-058e-4123-9fba-88307df73aef?syn-25a6b1a6=1",
-   "published": "2026-11-02T14:00:06+00:00"
   },
   {
    "title": "Earnings roundup: AstraZeneca’s cost cuts, Alnylam’s slump and Regeneron’s resilience",
@@ -1539,12 +1685,6 @@
    "source": "NYT DealBook",
    "url": "https://www.nytimes.com/2026/11/02/business/dealbook/ai-borrowing-binge.html",
    "published": "2026-11-02T12:36:44+00:00"
-  },
-  {
-   "title": "EU and Canada seek to be friends with association benefits",
-   "source": "FT Global Economy",
-   "url": "https://www.ft.com/content/3e5ff393-ff2e-482d-ae8a-48444dc00458?syn-25a6b1a6=1",
-   "published": "2026-11-02T12:31:09+00:00"
   },
   {
    "title": "UBS sees a buying opportunity in Rivian after recent sell-off",
@@ -1595,34 +1735,10 @@
    "published": "2026-11-02T09:30:00+00:00"
   },
   {
-   "title": "STAT+: Coming readout of Kymera eczema trial is a high-stakes moment in a bid to rival Dupixent",
-   "source": "STAT",
-   "url": "https://www.statnews.com/2026/11/02/kymera-therapeutics-trial-results-eczema-dupixent-rival/?utm_campaign=rss",
-   "published": "2026-11-02T09:30:00+00:00"
-  },
-  {
-   "title": "Opinion: Cancer patients are often pressured to end a pregnancy early. They shouldn’t be",
-   "source": "STAT",
-   "url": "https://www.statnews.com/2026/11/02/pregnant-cancer-patients-abortion-early-labor-research/?utm_campaign=rss",
-   "published": "2026-11-02T09:30:00+00:00"
-  },
-  {
-   "title": "Opinion: The economics of the U.S. health care system are broken",
-   "source": "STAT",
-   "url": "https://www.statnews.com/2026/11/02/american-health-care-costs-broken-economics-solutions/?utm_campaign=rss",
-   "published": "2026-11-02T09:30:00+00:00"
-  },
-  {
    "title": "BOE Expected to Join Peers in Raising Key Rate",
    "source": "WSJ Economy",
    "url": "https://www.wsj.com/economy/central-banking/boe-expected-to-join-peers-in-raising-key-rate-62a61c5b?mod=rss_socialeconomyfeed",
    "published": "2026-11-02T07:28:00+00:00"
-  },
-  {
-   "title": "FTAV’s further reading",
-   "source": "FT Alphaville",
-   "url": "https://www.ft.com/content/f81e73d7-6ebe-47d8-b42b-47d4d2345fb1",
-   "published": "2026-11-02T06:30:07+00:00"
   },
   {
    "title": "What the increasingly awkward data centre construction delays mean for investors",
@@ -1641,6 +1757,12 @@
    "source": "WSJ Economy",
    "url": "https://www.wsj.com/economy/jobs/companies-have-a-solution-for-the-skilled-trade-shortage-more-women-37851f46?mod=rss_socialeconomyfeed",
    "published": "2026-11-02T00:00:00+00:00"
+  },
+  {
+   "title": "BioArctic left out in the cold as Novartis walks away from $800M neuro collab",
+   "source": "Fierce Biotech",
+   "url": "https://www.fiercebiotech.com/biotech/novartis-scraps-800m-bioartic-neuroscience-collab-after-barely-year",
+   "published": null
   },
   {
    "title": "FDA grants uniQure’s Huntington’s gene therapy priority review, teeing up ‘defining milestone’",
@@ -1694,12 +1816,6 @@
    "title": "China's InventisBio delivers competitive TYK2 data in phase 3 psoriasis win",
    "source": "Fierce Biotech",
    "url": "https://www.fiercebiotech.com/biotech/inventisbio-delivers-competitive-tyk2-data-phase-3-psoriasis-win",
-   "published": null
-  },
-  {
-   "title": "Gilead reveals partial clinical hold on 2 CAR-T cell therapy trials",
-   "source": "Fierce Biotech",
-   "url": "https://www.fiercebiotech.com/biotech/gileads-kite-reveals-partial-clinical-hold-2-car-t-cell-therapy-trials",
    "published": null
   },
   {
@@ -1845,7 +1961,7 @@
   {
    "name": "Endpoints News",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": ""
   },
   {
@@ -1863,13 +1979,13 @@
   {
    "name": "WSJ Health",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": ""
   },
   {
    "name": "NYT Health",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "error": ""
   },
   {
@@ -1881,37 +1997,37 @@
   {
    "name": "WSJ Economy",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "error": ""
   },
   {
    "name": "WSJ Business",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": ""
   },
   {
    "name": "Financial Times",
    "ok": true,
-   "count": 8,
+   "count": 10,
    "error": ""
   },
   {
    "name": "FT Markets",
    "ok": true,
-   "count": 9,
+   "count": 8,
    "error": ""
   },
   {
    "name": "FT Companies",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": ""
   },
   {
    "name": "FT Global Economy",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "error": ""
   },
   {
@@ -1941,7 +2057,7 @@
   {
    "name": "CNBC Finance",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": ""
   },
   {
@@ -1989,7 +2105,7 @@
   {
    "name": "Google News: leveraged loans and high yield",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": ""
   },
   {
@@ -2005,6 +2121,6 @@
    "error": ""
   }
  ],
- "word_count": 1992,
+ "word_count": 2090,
  "read_minutes": 9
 }
