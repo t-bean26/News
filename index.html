@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#12202F">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Briefing">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" href="icon-180.png">
+<title>Briefing</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #12202F;
+    --ink-soft: #12202F99;
+    --paper: #F6F7F8;
+    --card: #ffffff;
+    --line: #12202F1f;
+    --health: #0F7B6C;
+    --markets: #2250D6;
+    --credit: #6B3FA0;
+    --deals: #B8480A;
+    --ui: "Archivo", system-ui, -apple-system, sans-serif;
+    --read: "Newsreader", Georgia, serif;
+    color-scheme: light;
+  }
+  * { box-sizing: border-box; margin: 0; -webkit-tap-highlight-color: transparent; }
+  html, body { height: 100%; background: var(--ink); color: var(--ink); font-family: var(--ui); font-size: 16px; }
+  body { overflow: hidden; }
+  button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
+  a { color: inherit; }
+  button:focus-visible, a:focus-visible { outline: 3px solid #FFB020; outline-offset: 2px; }
+
+  #pager { display: flex; height: 100dvh; overflow-x: auto; overflow-y: hidden; scroll-snap-type: x mandatory; scrollbar-width: none; overscroll-behavior-x: contain; }
+  #pager::-webkit-scrollbar { display: none; }
+  section { flex: 0 0 100%; width: 100%; height: 100dvh; scroll-snap-align: start; scroll-snap-stop: always; overflow-y: auto; background: var(--paper); padding-bottom: 96px; }
+
+  .band { color: #fff; padding: max(26px, env(safe-area-inset-top)) 22px 28px; }
+  .band .in, .body { max-width: 640px; margin: 0 auto; }
+  .body { padding: 24px 22px 0; }
+  .band h1 { font-family: var(--ui); font-weight: 700; font-size: 2.2rem; line-height: 1.05; letter-spacing: -0.02em; }
+  .band .meta { margin-top: 10px; opacity: .85; display: flex; gap: 14px; align-items: center; flex-wrap: wrap; }
+  .listen { border: 2px solid #ffffffcc; border-radius: 99px; padding: 8px 16px; font-weight: 600; }
+  .listen.on { background: #fff; color: var(--ink); }
+
+  /* Today */
+  #p-today .band { background: var(--ink); }
+  .date { opacity: .8; }
+  .lead { font-family: var(--read); font-size: 1.55rem; line-height: 1.35; margin-top: 14px; font-weight: 400; }
+  .mins { margin-top: 18px; font-weight: 600; }
+  .jump { display: block; width: 100%; text-align: left; background: var(--card); border-radius: 14px; padding: 16px 18px; margin-bottom: 10px; border-left: 8px solid var(--c); }
+  .jump b { display: block; font-size: 1.1rem; }
+  .jump span { color: var(--ink-soft); font-size: .92rem; }
+  .sh { font-weight: 700; font-size: 1.15rem; margin: 28px 0 10px; }
+  .watch { padding-left: 20px; font-family: var(--read); font-size: 1.15rem; line-height: 1.5; }
+  .watch li { margin-bottom: 8px; }
+  .note { margin-top: 26px; font-size: .9rem; color: var(--ink-soft); line-height: 1.5; }
+  .warn { background: #FFF3CD; color: #5C4400; padding: 14px 16px; border-radius: 12px; margin-bottom: 18px; line-height: 1.45; }
+  .empty { background: var(--card); border-radius: 14px; padding: 22px; line-height: 1.55; }
+  .empty ol { margin: 10px 0 0 20px; }
+
+  /* Reading */
+  .read p.t { font-family: var(--read); font-size: 1.28rem; line-height: 1.62; max-width: 62ch; }
+  .read .para { margin-bottom: 26px; }
+  .srcs { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+  .src { font-size: .8rem; font-weight: 600; text-decoration: none; padding: 5px 10px; border-radius: 99px; border: 1.5px solid var(--c); color: var(--c); }
+  .none { color: var(--ink-soft); font-family: var(--read); font-size: 1.15rem; }
+  .next { margin-top: 10px; text-decoration: underline; font-weight: 600; padding: 10px 0; }
+
+  /* Links */
+  #p-links .band { background: #3A4A5C; }
+  .chips { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 8px; scrollbar-width: none; }
+  .chips::-webkit-scrollbar { display: none; }
+  .chip { flex: 0 0 auto; border: 2px solid var(--ink); border-radius: 99px; padding: 7px 14px; font-weight: 600; font-size: .9rem; white-space: nowrap; }
+  .chip.on { background: var(--ink); color: #fff; }
+  .hl { display: block; text-decoration: none; padding: 14px 0; border-bottom: 1px solid var(--line); }
+  .hl b { display: block; font-weight: 600; line-height: 1.35; }
+  .hl span { color: var(--ink-soft); font-size: .85rem; }
+  .fs { margin-top: 24px; font-size: .88rem; color: var(--ink-soft); line-height: 1.6; }
+
+  nav { position: fixed; left: 0; right: 0; bottom: 0; display: flex; gap: 2px; padding: 8px 8px max(10px, env(safe-area-inset-bottom)); background: var(--ink); z-index: 5; justify-content: center; }
+  nav button { flex: 1; max-width: 100px; padding: 11px 0; border-radius: 10px; color: #ffffffa8; font-weight: 600; font-size: .82rem; }
+  nav button.on { background: #ffffff22; color: #fff; }
+
+  .loading { height: 100dvh; display: grid; place-items: center; color: #fff; }
+
+  @media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }
+</style>
+</head>
+<body>
+
+<div id="pager">
+  <section id="p-today"><div class="loading">Loading today's briefing</div></section>
+  <section id="p-healthcare"></section>
+  <section id="p-markets"></section>
+  <section id="p-credit"></section>
+  <section id="p-deals"></section>
+  <section id="p-links"></section>
+</div>
+
+<nav id="tabs" aria-label="Pages">
+  <button data-i="0">Today</button>
+  <button data-i="1">Health</button>
+  <button data-i="2">Markets</button>
+  <button data-i="3">Credit</button>
+  <button data-i="4">Deals</button>
+  <button data-i="5">Links</button>
+</nav>
+
+<script>
+const SECS = [
+  { id: "healthcare", label: "Health", color: "#0F7B6C" },
+  { id: "markets", label: "Markets", color: "#2250D6" },
+  { id: "credit", label: "Credit", color: "#6B3FA0" },
+  { id: "deals", label: "Deals", color: "#B8480A" }
+];
+const THEMES = ["#12202F", "#0F7B6C", "#2250D6", "#6B3FA0", "#B8480A", "#3A4A5C"];
+const $ = id => document.getElementById(id);
+const pager = $("pager");
+const esc = s => String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const safeUrl = u => /^https?:\/\//i.test(u) ? u : "#";
+
+let data = null, filter = "All", speakToken = 0, speaking = null;
+
+function ago(iso) {
+  if (!iso) return "";
+  const m = Math.max(0, Math.round((Date.now() - new Date(iso)) / 60000));
+  if (m < 60) return `${m}m ago`;
+  const h = Math.round(m / 60);
+  return h < 24 ? `${h}h ago` : `${Math.round(h / 24)}d ago`;
+}
+const go = i => pager.scrollTo({ left: i * pager.clientWidth, behavior: "smooth" });
+
+/* ---------- Today ---------- */
+function renderToday() {
+  const d = data, placeholder = d.placeholder || !d.generated_at;
+  const when = d.generated_at ? new Date(d.generated_at) : new Date();
+  const dateLine = when.toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" });
+  let h = `<div class="band"><div class="in">
+    <p class="date">${esc(dateLine)}</p>`;
+  if (placeholder) {
+    h += `<h1 style="margin-top:12px">Your briefing</h1></div></div><div class="body">
+      <div class="empty"><b>No briefing yet.</b> It is created by the daily job.
+      <ol><li>Open your repo on GitHub and tap <b>Actions</b>.</li><li>Choose <b>Daily briefing</b>, then <b>Run workflow</b>.</li><li>Wait a few minutes and reopen this app.</li></ol></div></div>`;
+    $("p-today").innerHTML = h; return;
+  }
+  h += `<p class="lead">${esc(d.headline)}</p>
+    <p class="mins">About ${d.read_minutes} min read</p></div></div><div class="body">`;
+  const ageH = (Date.now() - when) / 3600000;
+  if (ageH > 30) h += `<div class="warn">This briefing is from ${esc(ago(d.generated_at))}. The daily update may not have run. Check the Actions tab in your repo.</div>`;
+  h += SECS.map((s, i) => {
+    const sec = d.sections.find(x => x.id === s.id) || { minutes: 0, paragraphs: [] };
+    const sub = sec.paragraphs.length ? `${Math.max(1, Math.round(sec.minutes))} min · ${sec.paragraphs.length} ${sec.paragraphs.length === 1 ? "story group" : "story groups"}` : "Light coverage today";
+    return `<button class="jump" style="--c:${s.color}" data-go="${i + 1}"><b>${esc(sec.title || s.label)}</b><span>${sub}</span></button>`;
+  }).join("");
+  if (d.watch && d.watch.length) h += `<p class="sh">To watch today</p><ul class="watch">${d.watch.map(w => `<li>${esc(w)}</li>`).join("")}</ul>`;
+  const ok = (d.feed_status || []).filter(f => f.ok).length, all = (d.feed_status || []).length;
+  h += `<p class="note">Updated ${esc(when.toLocaleString(undefined, { weekday: "short", hour: "numeric", minute: "2-digit" }))}. Drawn from ${ok} of ${all} feeds. Paywalled outlets share only headlines and short blurbs, so this briefing summarizes those, not full articles. Tap the source tags to read the originals. Not investment advice.</p></div>`;
+  $("p-today").innerHTML = h;
+}
+
+/* ---------- Sections ---------- */
+function renderSection(i) {
+  const s = SECS[i], sec = data.sections.find(x => x.id === s.id);
+  const el = $("p-" + s.id);
+  const title = sec ? sec.title : s.label;
+  const mins = sec && sec.paragraphs.length ? Math.max(1, Math.round(sec.minutes)) : 0;
+  let h = `<div class="band" style="background:${s.color}"><div class="in"><h1>${esc(title)}</h1>
+    <div class="meta"><span>${mins ? mins + " min read" : "Light coverage"}</span>
+    ${mins ? `<button class="listen" data-listen="${s.id}" aria-pressed="false">Listen</button>` : ""}</div></div></div>
+    <div class="body read" style="--c:${s.color}">`;
+  if (!sec || !sec.paragraphs.length) {
+    h += `<p class="none">${data.placeholder ? "Nothing here yet. Run the daily job first." : "Not enough coverage in today's feeds to write this section. Check the Links page for the raw headlines."}</p>`;
+  } else {
+    h += sec.paragraphs.map(p => {
+      const seen = {};
+      const chips = (p.sources || []).map(x => {
+        seen[x.source] = (seen[x.source] || 0) + 1;
+        const label = seen[x.source] > 1 ? `${x.source} ${seen[x.source]}` : x.source;
+        return `<a class="src" href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener noreferrer" title="${esc(x.title)}">${esc(label)}</a>`;
+      }).join("");
+      return `<div class="para"><p class="t">${esc(p.text)}</p>${chips ? `<div class="srcs">${chips}</div>` : ""}</div>`;
+    }).join("");
+  }
+  if (i < SECS.length - 1) h += `<button class="next" data-go="${i + 2}">Next: ${esc(SECS[i + 1].label)}</button>`;
+  else h += `<button class="next" data-go="5">See all headlines</button>`;
+  h += `</div>`;
+  el.innerHTML = h;
+}
+
+/* ---------- Links ---------- */
+function renderLinks() {
+  const list = data.headlines || [];
+  const sources = [...new Set(list.map(x => x.source))].sort();
+  if (filter !== "All" && !sources.includes(filter)) filter = "All";
+  const shown = filter === "All" ? list : list.filter(x => x.source === filter);
+  let h = `<div class="band"><div class="in"><h1>All headlines</h1><div class="meta"><span>${list.length} stories today</span></div></div></div><div class="body">`;
+  if (!list.length) h += `<p class="none">No headlines yet.</p>`;
+  else {
+    h += `<div class="chips">${["All", ...sources].map(s => `<button class="chip ${s === filter ? "on" : ""}" data-filter="${esc(s)}">${esc(s)}</button>`).join("")}</div>`;
+    h += shown.map(x => `<a class="hl" href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener noreferrer"><b>${esc(x.title)}</b><span>${esc(x.source)}${x.published ? " · " + esc(ago(x.published)) : ""}</span></a>`).join("");
+  }
+  const bad = (data.feed_status || []).filter(f => !f.ok);
+  if (bad.length) h += `<p class="fs"><b>Feeds that failed in the last run:</b><br>${bad.map(f => esc(f.name)).join(", ")}</p>`;
+  h += `</div>`;
+  $("p-links").innerHTML = h;
+}
+
+function renderAll() { renderToday(); SECS.forEach((_, i) => renderSection(i)); renderLinks(); syncTab(); }
+
+/* ---------- Listen ---------- */
+function stopSpeak() {
+  speakToken++; speaking = null;
+  if ("speechSynthesis" in window) speechSynthesis.cancel();
+  document.querySelectorAll(".listen").forEach(b => { b.classList.remove("on"); b.textContent = "Listen"; b.setAttribute("aria-pressed", "false"); });
+}
+function listen(id) {
+  if (!("speechSynthesis" in window)) { alert("Read aloud isn't supported in this browser."); return; }
+  if (speaking === id) { stopSpeak(); return; }
+  stopSpeak();
+  const sec = data.sections.find(x => x.id === id); if (!sec) return;
+  const token = ++speakToken; speaking = id;
+  const btn = document.querySelector(`[data-listen="${id}"]`);
+  if (btn) { btn.classList.add("on"); btn.textContent = "Stop"; btn.setAttribute("aria-pressed", "true"); }
+  const paras = sec.paragraphs.map(p => p.text); let n = 0;
+  const next = () => {
+    if (token !== speakToken) return;
+    if (n >= paras.length) { stopSpeak(); return; }
+    const u = new SpeechSynthesisUtterance(paras[n++]);
+    u.onend = next;
+    u.onerror = () => { if (token === speakToken) stopSpeak(); };
+    speechSynthesis.speak(u);
+  };
+  next();
+}
+
+/* ---------- Navigation ---------- */
+let lastIdx = 0;
+function syncTab() {
+  const i = Math.round(pager.scrollLeft / pager.clientWidth);
+  document.querySelectorAll("#tabs button").forEach((b, k) => b.classList.toggle("on", k === i));
+  document.querySelector('meta[name="theme-color"]').content = THEMES[i] || THEMES[0];
+  if (i !== lastIdx) { lastIdx = i; if (speaking) stopSpeak(); }
+}
+pager.addEventListener("scroll", () => requestAnimationFrame(syncTab), { passive: true });
+
+document.addEventListener("click", e => {
+  const t = e.target;
+  const tab = t.closest("#tabs button"); if (tab) { go(+tab.dataset.i); return; }
+  const g = t.closest("[data-go]"); if (g) { go(+g.dataset.go); return; }
+  const l = t.closest("[data-listen]"); if (l) { listen(l.dataset.listen); return; }
+  const f = t.closest("[data-filter]"); if (f) { filter = f.dataset.filter; renderLinks(); }
+});
+document.addEventListener("keydown", e => {
+  const i = Math.round(pager.scrollLeft / pager.clientWidth);
+  if (e.key === "ArrowRight" && i < 5) go(i + 1);
+  if (e.key === "ArrowLeft" && i > 0) go(i - 1);
+});
+
+/* ---------- Load ---------- */
+async function load() {
+  try {
+    const r = await fetch("briefing.json?v=" + Date.now(), { cache: "no-store" });
+    if (!r.ok) throw new Error(r.status);
+    data = await r.json();
+    renderAll();
+  } catch (e) {
+    $("p-today").innerHTML = `<div class="band" style="background:#12202F"><div class="in"><h1>Couldn't load the briefing</h1></div></div>
+      <div class="body"><div class="empty">The file <b>briefing.json</b> wasn't found next to this page. Make sure it's uploaded to the same repo folder as <b>index.html</b>, then reload.</div></div>`;
+  }
+}
+document.addEventListener("visibilitychange", () => { if (!document.hidden && data) load(); });
+load();
+</script>
+</body>
+</html>

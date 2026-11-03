@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "max_age_hours": 36,
+    "per_feed": 10,
+    "max_items": 220
+  },
+  "feeds": [
+    {"name": "Fierce Biotech", "url": "https://www.fiercebiotech.com/rss/xml"},
+    {"name": "Fierce Healthcare", "url": "https://www.fiercehealthcare.com/rss/xml"},
+    {"name": "Fierce Pharma", "url": "https://www.fiercepharma.com/rss/xml"},
+    {"name": "STAT", "url": "https://www.statnews.com/feed/"},
+    {"name": "Endpoints News", "url": "https://endpts.com/feed/"},
+    {"name": "BioPharma Dive", "url": "https://www.biopharmadive.com/feeds/news/"},
+    {"name": "Healthcare Dive", "url": "https://www.healthcaredive.com/feeds/news/"},
+    {"name": "WSJ Health", "url": "https://feeds.content.dowjones.io/public/rss/socialhealth"},
+    {"name": "NYT Health", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml"},
+
+    {"name": "WSJ Markets", "url": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain"},
+    {"name": "WSJ Economy", "url": "https://feeds.content.dowjones.io/public/rss/socialeconomyfeed"},
+    {"name": "WSJ Business", "url": "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness"},
+    {"name": "Financial Times", "url": "https://www.ft.com/?format=rss"},
+    {"name": "FT Markets", "url": "https://www.ft.com/markets?format=rss"},
+    {"name": "FT Companies", "url": "https://www.ft.com/companies?format=rss"},
+    {"name": "FT Global Economy", "url": "https://www.ft.com/global-economy?format=rss"},
+    {"name": "FT Alphaville", "url": "https://www.ft.com/alphaville?format=rss"},
+    {"name": "NYT Business", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"},
+    {"name": "NYT Economy", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml"},
+    {"name": "NYT DealBook", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Dealbook.xml"},
+    {"name": "CNBC Finance", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"},
+    {"name": "CNBC Investing", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839069"},
+    {"name": "MarketWatch", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories"},
+    {"name": "Bloomberg Markets", "url": "https://feeds.bloomberg.com/markets/news.rss"},
+    {"name": "Federal Reserve", "url": "https://www.federalreserve.gov/feeds/press_all.xml", "limit": 5},
+    {"name": "Banking Dive", "url": "https://www.bankingdive.com/feeds/news/"},
+    {"name": "American Banker", "url": "https://www.americanbanker.com/feed"},
+
+    {"name": "Google News: private credit", "gnews": true, "limit": 8,
+     "url": "https://news.google.com/rss/search?q=%22private+credit%22+when:1d&hl=en-US&gl=US&ceid=US:en"},
+    {"name": "Google News: leveraged loans and high yield", "gnews": true, "limit": 8,
+     "url": "https://news.google.com/rss/search?q=%22leveraged+loan%22+OR+%22high-yield%22+OR+%22credit+spreads%22+when:1d&hl=en-US&gl=US&ceid=US:en"},
+    {"name": "Google News: investment banking and M&A", "gnews": true, "limit": 8,
+     "url": "https://news.google.com/rss/search?q=%22investment+bank%22+OR+%22M%26A%22+OR+IPO+when:1d&hl=en-US&gl=US&ceid=US:en"},
+    {"name": "Google News: biotech deals and financings", "gnews": true, "limit": 8,
+     "url": "https://news.google.com/rss/search?q=biotech+acquisition+OR+%22series+B%22+OR+%22series+C%22+when:1d&hl=en-US&gl=US&ceid=US:en"}
+  ]
+}

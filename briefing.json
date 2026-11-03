@@ -1,0 +1,16 @@
+{
+  "placeholder": true,
+  "generated_at": null,
+  "headline": "",
+  "watch": [],
+  "sections": [
+    {"id": "healthcare", "title": "Healthcare & biotech", "paragraphs": [], "words": 0, "minutes": 0},
+    {"id": "markets", "title": "Markets & macro", "paragraphs": [], "words": 0, "minutes": 0},
+    {"id": "credit", "title": "Credit", "paragraphs": [], "words": 0, "minutes": 0},
+    {"id": "deals", "title": "Investment banking & deals", "paragraphs": [], "words": 0, "minutes": 0}
+  ],
+  "headlines": [],
+  "feed_status": [],
+  "word_count": 0,
+  "read_minutes": 0
+}
